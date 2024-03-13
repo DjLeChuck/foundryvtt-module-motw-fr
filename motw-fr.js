@@ -18,6 +18,22 @@ Hooks.on('init', () => {
   if (game.settings.get('motw-fr', 'autoRegisterBabel')) {
     autoRegisterBabel();
   }
+
+  Babele.get().registerConverters({
+    resultLabel: (value) => {
+      switch (value) {
+        case 'Success!':
+          return 'Succès !';
+        case 'Partial success':
+          return 'Succès partiel';
+        case 'Miss...':
+          return 'Échec...';
+        default:
+          return value;
+      }
+    },
+  });
+
 });
 
 function autoRegisterBabel() {
