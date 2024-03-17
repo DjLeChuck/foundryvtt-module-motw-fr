@@ -1,0 +1,23 @@
+original_name: Trust Your Gut
+name: Trust Your Gut
+description: >-
+  <p>When you <strong>consult your instincts</strong> about what to do next,
+  roll +Weird.</p>
+
+  <p>Your gut feelings will point you somewhere important, but they do not
+  care about your conscious concerns. To your gut, the current mystery is just
+  one important thing amongst many.</p>
+success: >-
+  <p><strong>On a 10 or more</strong>, the Keeper will tell where you
+  should go. Wherever that is, it will be important. You get +1 ongoing on
+  the way to this place.<br><br></p>
+
+  <h4>Advanced Trust Your Gut</h4>
+
+  <p><strong>On a 12 or more</strong>, in addition to the usual 10+
+  result, the Keeper will tell you about one important thing you should
+  investigate further.</p>
+partial: >-
+  <p><strong>On a 7-9</strong>, the Keeper will tell you a general
+  direction to go. Take +1 forward as you explore that.</p>
+failure: <p><strong>On a miss</strong>, your instincts lead you into danger.</p>

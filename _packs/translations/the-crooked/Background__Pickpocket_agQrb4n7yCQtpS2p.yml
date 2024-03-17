@@ -1,0 +1,9 @@
+original_name: 'Background: Pickpocket'
+name: 'Background: Pickpocket'
+description: <p>When you steal something small, <strong>roll +Charm</strong>.&nbsp;</p>
+success: >-
+  <p><strong>On a 10 or more</strong>, you get it and they didn&rsquo;t
+  notice you taking it.</p>
+partial: >-
+  <p>&nbsp;<strong>On a 7-9</strong> either you don&rsquo;t grab it, you
+  grab the wrong thing, or they remember you later: your choice.</p>

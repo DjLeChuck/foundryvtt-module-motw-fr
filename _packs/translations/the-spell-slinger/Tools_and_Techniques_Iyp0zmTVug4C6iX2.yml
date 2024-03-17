@@ -1,0 +1,25 @@
+original_name: Tools and Techniques
+name: Tools and Techniques
+description: >-
+  <p>To use your combat magic effectively, you rely on a collection of tools
+  and techniques. Cross off one; you&rsquo;ll need the rest.</p>
+choices: >-
+  <ul>
+
+  <li><strong>Consumables</strong>: You need certain supplies&mdash; powders,
+  oils, etc&mdash;on hand, some will be used up each cast. If you don&rsquo;t
+  have them, take 1-harm ignore-armour when you cast.</li>
+
+  <li><strong>Foci</strong>: You need wands, staves, and other obvious props
+  to focus. If you don&rsquo;t have what you need, your combat magic does 1
+  less harm.</li>
+
+  <li><strong>Gestures</strong>: You need to wave your hands around to use
+  combat magic. If you&rsquo;re restrained, take -1 ongoing for combat
+  magic.</li>
+
+  <li><strong>Incantations</strong>: You must speak in an arcane language to
+  control your magic. If you use combat magic without speaking, <strong>act
+  under pressure</strong> to avoid scrambling your thoughts.</li>
+
+  </ul>

@@ -1,0 +1,25 @@
+original_name: Sensitive
+name: Sensitive
+description: >-
+  <p>When you <strong>open up your brain to the psychic environment</strong>,
+  roll +Weird.</p>
+
+  <p>Although you will find out something important, it won’t necessarily
+  relate to your current concerns or the mystery you are investigating right
+  now.</p>
+success: >-
+  <p><strong>On a 10 or more</strong>, you gain a definite impression (a
+  vision, tangible aura, overheard thought, etc) about something
+  important.<br><br></p>
+
+  <h4>Advanced Sensitive</h4>
+
+  <p><strong>On a 12 or more</strong>, you get an impression as for 10 or
+  more, plus you may ask one follow-up question that the Keeper will
+  answer honestly.</p>
+partial: >-
+  <p><strong>On a 7-9</strong>, you gain a hazy impression about something
+  important.</p>
+failure: >-
+  <p><strong>On a miss</strong>, your brain makes contact with something
+  dangerous.</p>

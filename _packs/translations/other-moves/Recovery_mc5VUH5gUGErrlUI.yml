@@ -1,0 +1,31 @@
+original_name: Recovery
+name: Soins
+description: >-
+  <p>Une blessure à 0 dégât disparaît tout de suite. Elle peut vous causer un problème momentané, mais au-delà de cela,
+  elle est purement esthétique.</p>
+  
+  <p>Les blessures légères (1-3 dégâts) se résorbent quand votre chasseur se repose (une bonne nuit de sommeil fera
+  l’affaire) ou reçoit les premiers soins. Il élimine alors 1 dégât.</p>
+
+  <p>En temps normal, il n’est pas nécessaire d’entreprendre une manœuvre pour prodiguer les premiers soins. Des
+  manœuvres de soins peuvent néanmoins les compléter. On ne peut profiter des premiers soins qu’une seule fois par
+  blessure ou problème.</p>
+  
+  <p>Les blessures graves (4+ dégâts) nécessitent des soins. Elles sont habituellement instables, ce qui veut dire
+  qu’elles s’aggravent si elles ne sont pas prises en charge (le Gardien vous dira quand cocher une nouvelle case de
+  dégâts). Si rien n’est fait, vous finirez par en mourir. Si une manœuvre vous dit que la blessure est maintenant
+  stable, effacez la case instable. Si vous subissez à nouveau des dégâts et que vous en avez subi un total de 4 ou
+  plus, vos blessures redeviennent instables. Dans le cas des blessures graves, les premiers soins permettent d’effacer
+  1 dégât, mais la blessure reste instable.
+  </p>
+
+  <p>La nature des soins dépend de la blessure, mais prend généralement une des formes suivantes :</p>
+  
+  <ul>
+    <li>Une manœuvre de soins d’un chasseur ;</li>
+    <li>Un passage par l’infirmerie du refuge de quelqu’un ;</li>
+    <li>Un passage chez un médecin ou aux urgences ;</li>
+    <li>Un sort magique.</li>
+  </ul>
+  
+  <p>Les manœuvres de soins précisent la quantité de dégâts éliminés.</p>

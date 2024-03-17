@@ -1,0 +1,13 @@
+original_name: Mentor
+name: Mentor
+description: >-
+  <p>You have a mentor in the Sect: name them. When <strong>you contact your
+  mentor for info</strong>, roll +Sharp.&nbsp;</p>
+success: >-
+  <p><strong>On a 10+</strong>, you get an answer to your question, no
+  problem.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong> you choose: they&rsquo;re either busy and
+  can&rsquo;t help, or they answer the question but you owe a
+  favour.&nbsp;</p>
+failure: <p><strong>On a miss</strong>, your question causes trouble.</p>

@@ -1,0 +1,28 @@
+original_name: Dark Past
+name: Dark Past
+description: >-
+  <p>If <strong>you trawl through your memories</strong> for something
+  relevant to the case at hand, roll +Weird.&nbsp;</p>
+success: >-
+  <p><strong>On a 10+</strong> ask the Keeper two questions from the list
+  below.&nbsp;</p>
+partial: <p><strong>On a 7-9</strong> ask one.&nbsp;</p>
+failure: >-
+  <p><strong>On a miss</strong>, you can ask a question anyway but that
+  will mean you were personally complicit in creating the situation you
+  are now dealing with.&nbsp;</p>
+choices: >-
+  <p>The questions are:</p>
+
+  <ul>
+
+  <li><em>When I dealt with this creature (or one of its kind), what did I
+  learn?</em></li>
+
+  <li><em>What black magic do I know that could help here?</em></li>
+
+  <li><em>Do I know anyone who might be behind this?</em></li>
+
+  <li><em>Who do I know who can help us right now?</em></li>
+
+  </ul>

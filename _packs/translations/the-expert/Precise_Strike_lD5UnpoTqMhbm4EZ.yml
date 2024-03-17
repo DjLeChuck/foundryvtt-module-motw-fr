@@ -1,0 +1,10 @@
+original_name: Precise Strike
+name: Precise Strike
+description: >-
+  <p>When you inflict harm on a monster, you can <strong>aim for a weak
+  spot</strong>. Roll +Tough.&nbsp;</p>
+success: <p><strong>On a 10+</strong> you inflict +2 harm.&nbsp;</p>
+partial: <p><strong>On a 7-9</strong> you inflict +1 harm.</p>
+failure: >-
+  <p><strong>On a miss</strong>, you leave yourself open to the
+  monster.</p>

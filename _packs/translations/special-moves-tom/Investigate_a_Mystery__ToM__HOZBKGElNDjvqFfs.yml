@@ -1,0 +1,22 @@
+original_name: Investigate a Mystery [ToM]
+name: Investigate a Mystery [ToM]
+description: >-
+  <p>When you <strong>investigate a mystery with your particular techniques
+  and skills</strong>, roll +Sharp.</p>
+success: >-
+  <p><strong>On a 10 or higher</strong>, ask the Keeper two general
+  questions or one specific question. Based on how you are investigating,
+  they will tell you honestly and with good detail what you discover.</p>
+
+  <h4><br>Advanced Investigate a Mystery</h4>
+
+  <p><strong>On a 12 or higher</strong>, as 10 or higher but you may ask
+  one additional question&mdash;specific or general, your choice.</p>
+partial: >-
+  <p><strong>On a 7 to 9</strong>, ask the Keeper one general question.
+  Based on how you are investigating, they will tell you honestly and with
+  reasonable detail what you discover.</p>
+failure: >-
+  <p><strong>On a miss</strong>, ask the Keeper one general question. They
+  may answer it as they wish. Regardless of the question and answer,
+  something bad happens.</p>

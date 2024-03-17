@@ -1,0 +1,30 @@
+original_name: Jinx
+name: Jinx
+description: >-
+  <p>You can encourage coincidences to occur, the way you want.<strong> When
+  you jinx a target</strong>, roll +Weird.&nbsp;</p>
+success: <p><strong>On a 10+</strong> hold 2.&nbsp;</p>
+partial: <p><strong>On a 7-9</strong> hold 1.</p>
+failure: >-
+  <p><strong>On a miss</strong>, the Keeper holds 2 over you to be used in
+  the same way.</p>
+choices: >-
+  <p>Spend your hold to:</p>
+
+  <ul>
+
+  <li>Interfere with a hunter, giving them -1 forward.</li>
+
+  <li>Help a hunter, giving them +1 forward, by interfering with their
+  enemy.</li>
+
+  <li>Interfere with what a monster, minion, or bystander is trying to
+  do.</li>
+
+  <li>Inflict 1-harm on the target due to an accident.</li>
+
+  <li>The target finds something you left for them.</li>
+
+  <li>The target loses something that you will soon find.</li>
+
+  </ul>

@@ -1,0 +1,30 @@
+original_name: Kick Some Ass
+name: Casser la gueule
+description: >-
+  <p>Quand vous êtes mêlé à un combat et cassez la gueule, <strong>lancez +Coriace</strong>.</p>
+success: >-
+  <p><strong>Si vous obtenez 10+</strong>, choisissez un effet supplémentaire :</p>
+  
+  <ul>
+    <li>Gagnez +1 temporaire ou donnez +1 temporaire à un autre chasseur ;</li>
+    <li>Vous infligez des dégâts considérables (+1 dégât) ;</li>
+    <li>Vous subissez moins de dégâts (-1 dégât) ;</li>
+    <li>Vous le poussez où vous le voulez.</li>
+  </ul>
+  
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous portez un coup dévastateur à l’ennemi, qui n’en croit pas ses
+  yeux. Vous infligez et subissez des dégâts normalement et choisissez un des effets suivants :</p>
+  
+  <ul>
+    <li>vous avez l’avantage, tous les chasseurs mêlés au combat gagnent +1 temporaire ;</li>
+    <li>vous ne subissez pas de dégâts ;</li>
+    <li>votre attaque inflige le double des dégâts normaux ;</li>
+    <li>votre attaque met l’ennemi en déroute.</li>
+  </ul>
+partial: >-
+  <p><strong>Sur un 7+</strong>, vous et ce que vous combattez infligez des dégâts en fonction de divers paramètres.
+  En règle générale, vous infligez les dégâts de votre arme et votre adversaire vous inflige les dégâts de son
+  attaque.</p>
+failure: >-
+  <p><strong>En cas d’échec</strong>, vous prenez une raclée. Vous subissez des dégâts ou êtes capturé, mais vous
+  n’infligez pas de dégâts.</p>

@@ -1,0 +1,20 @@
+original_name: Protect Someone
+name: Protéger quelqu’un
+description: >-
+  <p>Pour empêcher un autre personnage de subir des dégâts, <strong>lancez +Coriace</strong>.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, choisissez un effet supplémentaire :</p>
+
+  <ul>
+    <li>Vous subissez moins de dégâts (-1 dégât) ;</li>
+    <li>C’est maintenant vous qui êtes en danger ;</li>
+    <li>Vous infligez des dégâts à l’ennemi ;</li>
+    <li>Vous contenez l’ennemi.</li>
+  </ul>
+
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous vous défendez à la perfection. Vous et le personnage protégé
+  êtes indemnes et hors de danger. Si vous protégiez un figurant, il devient votre allié.</p>
+partial: >-
+  <p><strong>Sur un 7+</strong>, Vous protégez l’individu en question, mais subissez tout ou partie des dégâts à sa
+  place.</p>
+failure: <p><strong>En cas d’échec</strong>, la situation s’aggrave.</p>

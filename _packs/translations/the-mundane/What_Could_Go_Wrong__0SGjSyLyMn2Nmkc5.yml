@@ -1,0 +1,12 @@
+original_name: What Could Go Wrong?
+name: What Could Go Wrong?
+description: >-
+  <p>Whenever you charge into immediate danger without hedging your bets, hold
+  2.&nbsp;</p>
+choices: |-
+  <p>You may spend your hold to:</p>
+  <ul>
+  <li>Inflict +1 harm.</li>
+  <li>Reduce someone&rsquo;s harm suffered by 1.</li>
+  <li>Take +2 forward on an <strong>act under pressure</strong> roll.</li>
+  </ul>

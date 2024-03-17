@@ -1,0 +1,12 @@
+original_name: Preparedness
+name: Preparedness
+description: >-
+  <p>When <strong>you need something unusual or rare</strong>, roll
+  +Sharp.&nbsp;</p>
+success: <p><strong>On a 10+</strong>, you have it here right now.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong> you have it, but not here: it will take
+  some time to get it.&nbsp;</p>
+failure: >-
+  <p><strong>On a miss</strong>, you know where it is, but it&rsquo;s
+  somewhere real bad.</p>

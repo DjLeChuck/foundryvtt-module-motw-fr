@@ -13,7 +13,7 @@ unpack:
 	@make -s workon
 	@echo "Unpack compendiums..."
 	@for dir in $(shell ls ${PACK_DIRS}); do \
-		fvtt package unpack --yaml --in $$PACK_DIRS --out _packs/targets/$$dir $$dir >/dev/null; \
+		fvtt package unpack --yaml --in $$PACK_DIRS --out _packs/extractions/$$dir $$dir >/dev/null; \
 	done
 	@make -s clear
 

@@ -1,0 +1,12 @@
+original_name: Mobility
+name: Mobility
+description: >-
+  <p>You have a truck, van, or car built for monster hunting. Choose two good
+  things and one bad thing about it.&nbsp;</p>
+choices: >-
+  <p><em>Good things</em>: roomy; surveillance gear; fast; stealthy;
+  intimidating; classic; medical kit; sleeping space; toolkit; concealed
+  weapons; anonymous; armoured (+1 armour inside); tough; monster cage.</p>
+
+  <p><em>Bad things</em>: loud; obvious; temperamental; beaten- up;
+  gas-guzzler; uncomfortable; slow; old.</p>

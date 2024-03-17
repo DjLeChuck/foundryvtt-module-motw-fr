@@ -1,0 +1,19 @@
+original_name: Harm
+name: Dégâts
+description: >-
+  <p>Quand vous subissez des dégâts, le Gardien vous dira l’effet que cela a. La gravité des blessures dépend des
+  dégâts que vous avez subis :</p>
+
+  <ul>
+    <li>Les blessures à 0 dégât n’ont que des effets mineurs à court terme ;</li>
+    <li>
+      Les blessures à 4-7 dégâts sont graves et instables, elles s’aggravent si elles ne sont pas soignées, cochez
+      la case « Instable » ;
+    </li>
+    <li>8 dégâts suffisent à tuer un humain normal, y compris un chasseur.</li>
+  </ul>
+
+  <p>Notez que l’armure diminue la quantité de dégâts subis.</p>
+
+  <p>Tous les monstres (et certains sbires) ont des faiblesses. Cela veut dire que vous ne pouvez les tuer que si vous
+  exploitez ces faiblesses.</p>

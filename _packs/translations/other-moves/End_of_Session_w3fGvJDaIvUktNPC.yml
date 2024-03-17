@@ -1,0 +1,14 @@
+original_name: End of Session
+name: Expérience de fin de séance
+description: >-
+  <p>À la fin de chaque séance, le Gardien vous posera les questions suivantes :</p>
+
+  <ul>
+    <li>Avez-vous démêlé le mystère en cours ?</li>
+    <li>Avez-vous sauvé quelqu’un d’une mort certaine (voire pire) ?</li>
+    <li>Avez-vous appris quelque chose de nouveau et d’important sur le monde ?</li>
+    <li>Avez-vous appris quelque chose de nouveau et d’important sur un des chasseurs ?</li>
+  </ul>
+
+  <p>Si vous répondez oui à une ou deux questions, chaque chasseur coche une case d’expérience. Si vous répondez oui à
+  trois ou quatre questions, chaque chasseur coche deux cases d’expérience.</p>

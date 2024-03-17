@@ -1,0 +1,10 @@
+original_name: 'Haven: Armory'
+name: 'Haven: Armory'
+description: >-
+  <p>You have a stockpile of mystical and rare monster-killing weapons and
+  items. If you <strong>need a special weapon</strong>, roll +Weird.&nbsp;</p>
+success: >-
+  <p><strong>On a 10+</strong> you have it (and plenty if that
+  matters).&nbsp;</p>
+partial: <p><strong>On a 7-9</strong> you have it, but only the minimum.</p>
+failure: <p><strong>On a miss</strong>, you&rsquo;ve got the wrong thing.</p>

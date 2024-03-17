@@ -1,0 +1,14 @@
+original_name: It Wasn't As Bad As It Looked
+name: It Wasn't As Bad As It Looked
+description: >-
+  <p>Once per mystery, you may attempt to <strong>keep going despite your
+  injuries</strong>. Roll +Cool.&nbsp;</p>
+success: >-
+  <p><strong>On a 10+</strong>, heal 2 harm and stabilize your
+  wounds.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong> you may either stabilize or heal 1
+  harm.&nbsp;</p>
+failure: >-
+  <p><strong>On a miss</strong>, it was worse than it looked: the Keeper
+  may inflict a harm move on you, or make your wounds unstable.</p>

@@ -1,0 +1,20 @@
+original_name: Weird Science
+name: Weird Science
+description: >-
+  <p>When you <strong>create or adapt a device to analyse or deal with
+  strangeness</strong>, say what it will do and roll +Weird.</p>
+success: >-
+  <p><strong>On a 10 or more</strong>, you pick two
+  requirements.<br><br></p>
+
+  <h4>Advanced Weird Science</h4>
+
+  <p><strong>On a 12 or more</strong>, you gain +1 ongoing when operating
+  the device.</p>
+partial: >-
+  <p><strong>On a 7-9</strong>, you pick one requirement and the Keeper
+  picks a second one.</p>
+failure: >-
+  <p><strong>On a miss</strong>, something goes horribly wrong. You are
+  still able to create your device, but the Keeper picks three
+  requirements.</p>

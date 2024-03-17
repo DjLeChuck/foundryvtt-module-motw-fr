@@ -1,0 +1,18 @@
+original_name: Good Standing
+name: Good Standing
+description: >-
+  <p>When you<strong> are in good standing with your Sect, at the beginning of
+  each mystery</strong>, roll +Charm.&nbsp;</p>
+
+  <p>If you fail a mission or refuse an order, you&rsquo;ll be in trouble with
+  the Sect until you atone.</p>
+success: >-
+  <p><strong>On a 10+</strong> they provide some useful info or help in
+  the field.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong> you get a mission associated with the
+  mystery, and if you do it you&rsquo;ll get some info or help
+  too.&nbsp;</p>
+failure: >-
+  <p><strong>On a miss</strong>, they ask you to do something
+  bad.&nbsp;</p>

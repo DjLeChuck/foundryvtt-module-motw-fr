@@ -1,0 +1,31 @@
+original_name: Telekinesis
+name: Telekinesis
+description: >-
+  <p>When you <strong>fling something with your mind</strong>, roll
+  +Weird.</p>
+
+  <p>By default you can move something smaller than a person. You don’t have
+  much control, and you can’t move it strongly enough to hurt anything.</p>
+success: >-
+  <p><strong>On a 10 or more,</strong> you move it. Choose two options and
+  mark 1-harm.<br><br></p>
+
+  <h4>Advanced Telekinesis&nbsp;</h4>
+
+  <p><strong>On a 12 or more</strong>, choose three options. You may also
+  choose from these advanced options:</p>
+
+  <ul>
+
+  <li>Something explodes (3-harm close fire area messy)</li>
+
+  <li>Something implodes (3-harm close crush)</li>
+
+  <li>Lots of stuff is flying under your control.<br>&bull; You have
+  perfect and precise control over exactly what happens.</li>
+
+  </ul>
+partial: >-
+  <p><strong>On a 7-9</strong>, you move it but it hurts. Choose one
+  option and mark 2-harm.</p>
+failure: <p><strong>On a miss</strong>, something goes horribly wrong.</p>

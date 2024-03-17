@@ -1,0 +1,11 @@
+original_name: Lay On Hands
+name: Lay On Hands
+description: <p>Your touch can heal injury and disease. When you <strong>lay your
+  hands on someone hurt</strong>, roll +Cool. </p>
+success: >-
+  <p><strong>On a 10+</strong>, heal 2 harm or an illness, plus
+  they&rsquo;re stabilized.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong>, you can heal the harm or illness as on a
+  10+, but you take it into yourself.&nbsp;</p>
+failure: <p><strong>On a miss</strong>, your aura causes them extra harm.</p>

@@ -1,0 +1,23 @@
+original_name: DIY Surgery
+name: DIY Surgery
+description: >-
+  <p>When you <strong>do quick and dirty first aid</strong> on someone
+  (including yourself), roll +Cool.&nbsp;</p>
+success: >-
+  <p><strong>On a 10+</strong> it&rsquo;s all good, it counts as normal
+  first aid, plus stabilize the injury and heal 1 harm.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong> it counts as normal first aid, plus one of
+  these, your choice:</p>
+
+  <ul>
+
+  <li>Stabilise the injury but the patient takes -1 forward.</li>
+
+  <li>Heal 1-harm and stabilise for now, but it will return as 2-harm and
+  become unstable again later.</li>
+
+  <li>Heal 1-harm and stabilise but the patient takes -1 ongoing until
+  it&rsquo;s fixed properly.</li>
+
+  </ul>

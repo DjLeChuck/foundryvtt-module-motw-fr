@@ -1,0 +1,15 @@
+original_name: 'Background: Charlatan'
+name: 'Background: Charlatan'
+description: >-
+  <p>When you want people to think you are using magic, <strong>roll
+  +Cool</strong>.</p>
+
+  <p>You may also <strong>manipulate peopl</strong>e with fortune telling.
+  When you do that, ask &ldquo;What are they hoping for right now?&rdquo; as a
+  free question (even on a miss).</p>
+success: >-
+  <p><strong>On a 10 or more</strong>, your audience is amazed and fooled
+  by your illusion.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong> you tripped up a couple of times, maybe
+  someone will notice.</p>

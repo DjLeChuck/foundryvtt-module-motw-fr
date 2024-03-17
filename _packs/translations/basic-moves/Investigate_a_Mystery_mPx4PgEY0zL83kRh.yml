@@ -1,0 +1,20 @@
+original_name: Investigate a Mystery
+name: Enquêter sur un mystère
+description: <p>Quand vous enquêtez sur un mystère, <strong>lancez +Futé</strong>.</p>
+success: <p><strong>Sur un 10+</strong>, réserve 2.</p>
+partial: <p><strong>Sur un 7-9</strong>, réserve 1.</p>
+failure: >-
+  <p><strong>En cas d’échec</strong>, vous révélez des informations au monstre ou à l’individu auquel vous vous
+  adressez. Le Gardien est en droit de vous poser quelques questions auxquelles vous devez répondre.</p>
+choices: >-
+  <p>Un point de réserve permet de poser au Gardien une des questions suivantes :</p>
+  
+  <ul>
+    <li>Que s’est-il passé ici ?</li>
+    <li>De quel genre de créature s’agit-il ?</li>
+    <li>Que sait-elle faire ?</li>
+    <li>À quoi est-elle vulnérable ?</li>
+    <li>Où est-elle partie ?</li>
+    <li>Que voulait-elle faire ?</li>
+    <li>Y a-t-il quelque chose de caché par ici ?</li>
+  </ul>

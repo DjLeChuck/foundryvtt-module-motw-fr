@@ -1,0 +1,27 @@
+original_name: Read a Bad Situation
+name: Évaluer une situation qui craint
+description: >-
+  <p>Quand vous observez les environs et évaluez une situation qui craint, <strong>lancez +Futé</strong>.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, réserve 3.</p>
+  
+  <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous pouvez poser au Gardien n’importe quelle question sur le
+  mystère, pas seulement celles qui sont indiquées.</p>
+partial: <p><strong>Sur un 7-9</strong>, réserve 1.</p>
+failure: >-
+  <p><strong>En cas d’échec</strong>, vous méjugez la situation (par exemple, « Tout va bien, il n’y a aucun danger !
+  Je peux mener l’enquête tout seul ! ») ou dévoilez des détails tactiques à vos ennemis (le Gardien peut alors vous
+  poser les questions ci-dessus).</p>
+choices: >-
+  <p>Un point de réserve peut être dépensé pour poser une des questions suivantes au Gardien.</p>
+
+  <ul>
+    <li>Quelle est la meilleure façon d’entrer pour moi ?</li>
+    <li>Quelle est la meilleure façon de sortir pour moi ?</li>
+    <li>Y a-t-il des dangers que nous n’avons pas remarqués ?</li>
+    <li>Quelle est la plus grande menace ?</li>
+    <li>Qu’est-ce qui est le plus vulnérable pour moi ?</li>
+    <li>Quelle est la meilleure façon de protéger les victimes ?</li>
+  </ul>
+
+  <p>Si vous agissez conformément aux réponses obtenues, gagnez +1 constant tant que l’information est pertinente.</p>

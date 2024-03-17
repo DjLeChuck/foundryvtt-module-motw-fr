@@ -1,0 +1,10 @@
+original_name: The Woman (Or Man) With The Plan
+name: The Woman (Or Man) With The Plan
+description: |-
+  <p><strong>At the beginning of each mystery</strong>, roll +Sharp.&nbsp;</p>
+  <p>Spend the hold to be where you need to be, prepared and ready.</p>
+success: <p><strong>On a 10+</strong> hold 2.</p>
+partial: <p><strong>On a 7-9</strong> hold 1.&nbsp;</p>
+failure: >-
+  <p><strong>On a miss</strong>, the Keeper holds 1 they can spend to put
+  you in the worst place, unprepared and unready.</p>

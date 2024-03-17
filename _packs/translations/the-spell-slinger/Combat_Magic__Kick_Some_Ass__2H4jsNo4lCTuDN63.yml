@@ -1,0 +1,52 @@
+original_name: Combat Magic [Kick Some Ass]
+name: Combat Magic [Kick Some Ass]
+description: >-
+  <p>You have a few attack spells you can use as weapons.&nbsp;When you use
+  these spells to&nbsp;<strong>kick some ass</strong>, roll
+  +Weird&nbsp;instead of +Tough.</p>
+
+  <p>Sometimes the situation may require&nbsp;you to&nbsp;<strong>act under
+  pressure</strong>&nbsp;to cast your spell without&nbsp;problems.</p>
+
+  <p>Your combat spells can combine any of your base spells&nbsp;with any of
+  your effects.</p>
+success: >-
+  <p><strong>On a 10+</strong>, choose one extra effect:</p>
+
+  <ul>
+
+  <li>You gain the advantage: take +1 forward, or give +1 forward to
+  another hunter.</li>
+
+  <li>You inflict terrible harm (+1 harm).</li>
+
+  <li>You suffer less harm (-1 harm).</li>
+
+  <li>You force them where you want them.</li>
+
+  </ul>
+
+  <p><br><strong>ADVANCED: On a 12+</strong>&nbsp;instead pick an enhanced
+  effect:</p>
+
+  <ul>
+
+  <li>You completely hold the advantage.&nbsp;All hunters involved in the
+  fight get +1 forward.</li>
+
+  <li>You suffer no harm at all.</li>
+
+  <li>Your attack inflicts double the normal harm.</li>
+
+  <li>Your attack drives the enemy away in a rout.</li>
+
+  </ul>
+partial: >-
+  <p><strong>On a 7+</strong>, you and whatever you&rsquo;re fighting
+  inflict harm on each other. The amount of harm is based on the
+  established dangers in the game. That usually means you inflict the harm
+  rating of your weapon and your enemy inflicts their attack&rsquo;s harm
+  rating on you.</p>
+failure: >-
+  <p><strong>On a miss</strong>, you get your ass kicked instead. You
+  suffer harm or get captured, but don&rsquo;t inflict any harm back.</p>

@@ -1,0 +1,16 @@
+original_name: Deal With The Agency
+name: Deal With The Agency
+description: >-
+  <p>When you <strong>deal with the Agency</strong>, requesting help or gear,
+  or making excuses for a failure, roll +Sharp.&nbsp;</p>
+success: >-
+  <p><strong>On a 10+</strong>, you&rsquo;re good - your request for gear
+  or personnel is okayed, or your slip-up goes unnoticed.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong>, things aren&rsquo;t so great. You might
+  get chewed out by your superiors and there&rsquo;ll be fallout, but you
+  get what you need for the job.&nbsp;</p>
+failure: >-
+  <p><strong>On a miss</strong>, you screwed up: you might be suspended or
+  under investigation, or just in the doghouse. You certainly aren&rsquo;t
+  going to get any help until you sort it all out.</p>

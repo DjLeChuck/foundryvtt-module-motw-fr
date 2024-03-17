@@ -1,0 +1,13 @@
+original_name: Net Friends
+name: Net Friends
+description: <p>You know a lot of people on the Internet. When you<strong> contact
+  a net friend to help you</strong> with a mystery, roll +Charm. </p>
+success: >-
+  <p><strong>On a 10+</strong>, they&rsquo;re available and helpful - they
+  can fix something, break a code, hack a computer, or get you some
+  special information.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong>, they&rsquo;re prepared to help, but
+  it&rsquo;s either going to take some time or you&rsquo;re going to have
+  to do part of it yourself.&nbsp;</p>
+failure: <p><strong>On a miss</strong>, you burn some bridges.</p>

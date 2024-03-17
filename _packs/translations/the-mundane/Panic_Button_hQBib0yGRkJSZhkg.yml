@@ -1,0 +1,13 @@
+original_name: Panic Button
+name: Panic Button
+description: >-
+  <p>When you need to escape, <strong>name the route you&rsquo;ll try</strong>
+  and roll +Sharp.&nbsp;</p>
+success: >-
+  <p><strong>On a 10+</strong> you&rsquo;re out of danger, no
+  problem.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong> you can go or stay, but if you go
+  it&rsquo;s going to cost you (you leave something behind or something
+  comes with you).&nbsp;</p>
+failure: <p><strong>On a miss</strong>, you are caught halfway out.</p>

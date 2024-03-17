@@ -1,0 +1,14 @@
+original_name: Premonition
+name: Premonition
+description: <p><strong>At the start of each mystery</strong>, roll +Weird.&nbsp;</p>
+success: >-
+  <p>On a 10+, you get a detailed vision of something bad that is yet to
+  happen. You take +1 forward to prevent it coming true, and mark
+  experience if you stop it.&nbsp;</p>
+partial: >-
+  <p>On a 7-9+ you get clouded images of something bad that is yet to
+  happen: mark experience if you stop it.&nbsp;</p>
+failure: >-
+  <p>On a miss, you get a vision of something bad happening to you and the
+  Keeper holds 3, to be spent one-for-one as penalties to rolls you
+  make.</p>

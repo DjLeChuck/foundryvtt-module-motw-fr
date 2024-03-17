@@ -1,0 +1,24 @@
+original_name: Trust Me
+name: Trust Me
+description: >-
+  <p>When <strong>you tell a normal person the truth in order to protect them
+  from danger</strong>, roll +Charm.&nbsp;</p>
+success: >-
+  <p><strong>On a 10+</strong> they&rsquo;ll do what you say they should,
+  no questions asked.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong> they do it, but the Keeper chooses one
+  from:</p>
+
+  <ul>
+
+  <li>They ask you a hard question first.</li>
+
+  <li>They stall and dither a while.</li>
+
+  <li>They have a &ldquo;better&rdquo; idea.&nbsp;</li>
+
+  </ul>
+failure: >-
+  <p><strong>On a miss</strong>, they&rsquo;re going to think you&rsquo;re
+  crazy and maybe dangerous too.</p>

@@ -1,0 +1,23 @@
+original_name: Tune In
+name: Tune In
+description: <p>You can attune your mind to a monster or minion. Roll +Weird.&nbsp;</p>
+success: <p>On a 10+, hold 3.&nbsp;</p>
+partial: <p>On a 7-9, hold 1.&nbsp;</p>
+failure: <p>On a miss, the monster becomes aware of you.&nbsp;</p>
+choices: >-
+  <p>Spend one hold to ask the Keeper one of the following questions, and gain
+  +1 ongoing while acting on the answers:&nbsp;</p>
+
+  <ul>
+
+  <li>Where is the creature right now?</li>
+
+  <li>What is it planning to do right now?</li>
+
+  <li>Who is it going to attack next?</li>
+
+  <li>Who does it regard as the biggest threat?</li>
+
+  <li>How can I attract its attention?</li>
+
+  </ul>

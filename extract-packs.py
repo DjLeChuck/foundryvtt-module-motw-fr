@@ -33,8 +33,8 @@ def extract_keys(input_dir, output_dir, mapping):
                 with open(output_path, "w") as f:
                     yaml.dump(extracted_data, f)
 
-input_directory = "_packs/targets"
-output_directory = "_packs/extracts"
+input_directory = "_packs/extractions"
+output_directory = "_packs/translations"
 
 key_mapping = {
     "name": "name",

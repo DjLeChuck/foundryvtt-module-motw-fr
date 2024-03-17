@@ -1,0 +1,12 @@
+original_name: Unquenchable Vitality
+name: Unquenchable Vitality
+description: >-
+  <p>When you have taken harm, <strong>you can heal yourself</strong>. Roll
+  +Cool.&nbsp;</p>
+success: >-
+  <p><strong>On a 10+</strong>, heal 2-harm and stabilise your
+  injuries.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong>, heal 1-harm and stabilise your
+  injuries.</p>
+failure: <p><strong>On a miss</strong>, your injuries worsen.</p>

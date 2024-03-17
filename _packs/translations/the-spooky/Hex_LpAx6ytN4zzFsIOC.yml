@@ -1,0 +1,15 @@
+original_name: Hex
+name: Hex
+description: >-
+  <p>When you cast a spell (with <strong>use magic)</strong>, as well as the
+  normal effects, you may pick from the following:</p>
+
+  <ul>
+
+  <li>The target contracts a disease.</li>
+
+  <li>The target immediately suffers harm (2-harm magic ignore-armour).</li>
+
+  <li>The target breaks something precious or important.</li>
+
+  </ul>

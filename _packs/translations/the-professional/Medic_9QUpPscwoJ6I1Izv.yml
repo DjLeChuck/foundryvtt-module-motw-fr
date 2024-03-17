@@ -1,0 +1,14 @@
+original_name: Medic
+name: Medic
+description: >-
+  <p>You have a full first aid kit, and the training to heal people.
+  <strong>When you do first aid</strong>, roll +Cool.&nbsp;</p>
+
+  <p>This move takes the place of regular first aid.</p>
+success: >-
+  <p><strong>On a 10+</strong> the patient is stabilized and healed of 2
+  harm.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong> choose one: heal 2 harm or stabilize the
+  injury.&nbsp;</p>
+failure: <p><strong>On a miss</strong>, you cause an extra 1 harm.&nbsp;</p>

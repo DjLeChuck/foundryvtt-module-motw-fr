@@ -62,7 +62,7 @@ def generate_json(input_dir, output_dir, compendium_labels):
             with open(output_path, "w") as f:
                 json.dump(json_data, f, indent=2)
 
-input_directory = "_packs/extracts"
+input_directory = "_packs/translations"
 output_dir = "compendium/fr"
 compendium_labels = {
     "basic-moves": "Manœuvres basiques",

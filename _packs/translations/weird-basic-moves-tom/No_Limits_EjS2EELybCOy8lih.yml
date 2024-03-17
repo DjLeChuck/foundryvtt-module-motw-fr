@@ -1,0 +1,32 @@
+original_name: No Limits
+name: No Limits
+description: >-
+  <p>When you <strong>push your physical body past its limits</strong>, roll
+  +Weird.</p>
+
+  <p>For the purposes of this move, “physical possibility” means “conceivably
+  possible for a human.”</p>
+
+  <p>For example:</p>
+
+  <ul>
+
+  <li><strong>Physically</strong> <strong>Possible:</strong> Lift an SUV, Jump
+  over a truck, Punch through a wall.</li>
+
+  <li><strong>Not Physically Possible:</strong> Lift a building, Fly, Punch a
+  blast of energy at a foe.</li>
+
+  </ul>
+success: >-
+  <p><strong>On a 10 or more</strong>, your body obeys your will, to the
+  limits of physical possibility (see below), for a moment.<br><br></p>
+
+  <h4>Advanced No Limits</h4>
+
+  <p><strong>On a 12 or more</strong>, you can continue acting at your
+  body&rsquo;s limits for 30 seconds.</p>
+partial: >-
+  <p><strong>On a 7-9</strong>, you do it but choose one consequence:
+  suffer 1-harm, take &ndash;1 forward, or you need to rest right now.</p>
+failure: <p><strong>On a miss</strong>, something goes horribly wrong.</p>

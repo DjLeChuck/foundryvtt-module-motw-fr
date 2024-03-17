@@ -1,0 +1,13 @@
+original_name: Cast Out Evil
+name: Cast Out Evil
+description: "<p>You may <strong>banish an unnatural creature</strong> from your presence.
+  Roll +Tough. </p>\n<p>This move may be used on unnatural hunters (e.g. the Monstrous).</p>"
+success: <p><strong>On a 10+</strong> it is banished.&nbsp;</p>
+partial: >-
+  <p><strong>On a 7-9</strong> it takes a little while for the banishing
+  to take effect - the creature has time to make one or two actions.
+  Either way, the banished creature is unharmed, and you have no control
+  over where it goes.&nbsp;</p>
+failure: >-
+  <p><strong>On a miss</strong>, something is keeping it here.
+  That&rsquo;s bad.</p>
