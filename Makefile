@@ -1,5 +1,7 @@
 .PHONY: workon clear unpack extract generate
-PACK_DIRS := ./_packs/sources
+
+include .env
+export
 
 workon:
 	@fvtt package workon motw-fr --type Module
@@ -11,7 +13,7 @@ unpack:
 	@make -s workon
 	@echo "Unpack compendiums..."
 	@for dir in $(shell ls ${PACK_DIRS}); do \
-		fvtt package unpack --yaml --in _packs/sources --out _packs/targets/$$dir $$dir >/dev/null; \
+		fvtt package unpack --yaml --in $$PACK_DIRS --out _packs/targets/$$dir $$dir >/dev/null; \
 	done
 	@make -s clear
 
