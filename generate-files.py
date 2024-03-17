@@ -69,7 +69,7 @@ compendium_labels = {
     "other-moves": "Autres manœuvres",
     "playbooks": "Les Livrets",
     "special-moves-tom": "Manœuvres spéciales [ToM]",
-    "tags": "Tags",
+    "tags": "Traits",
     "the-chosen": "L’Élu",
     "the-crooked": "Le Vaurien",
     "the-divine": "Le Divin",
