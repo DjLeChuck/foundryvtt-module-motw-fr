@@ -3,10 +3,10 @@ name: Leave No One Behind
 description: >-
   <p>In combat, when <strong>you help someone escape</strong>, roll
   +Sharp.&nbsp;</p>
-success: <p><strong>On a 10+</strong> you get them out clean.&nbsp;</p>
+success: <p><strong>Sur un 10+</strong>, you get them out clean.&nbsp;</p>
 partial: >-
-  <p><strong>On a 7-9</strong>, you can <em>either </em>get them out
+  <p><strong>Sur un 7-9</strong>, you can <em>either </em>get them out
   <em>or </em>suffer no harm, you choose.&nbsp;</p>
 failure: >-
-  <p><strong>On a miss</strong>, you fail to get them out and you&rsquo;ve
+  <p><strong>En cas d’échec</strong>, you fail to get them out and you&rsquo;ve
   attracted hostile attention.</p>

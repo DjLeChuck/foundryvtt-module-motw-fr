@@ -18,6 +18,6 @@ success: >-
   result, the Keeper will tell you about one important thing you should
   investigate further.</p>
 partial: >-
-  <p><strong>On a 7-9</strong>, the Keeper will tell you a general
+  <p><strong>Sur un 7-9</strong>, the Keeper will tell you a general
   direction to go. Take +1 forward as you explore that.</p>
-failure: <p><strong>On a miss</strong>, your instincts lead you into danger.</p>
+failure: <p><strong>En cas d’échec</strong>, your instincts lead you into danger.</p>

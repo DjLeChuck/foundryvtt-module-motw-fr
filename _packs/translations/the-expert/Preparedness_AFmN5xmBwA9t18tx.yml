@@ -1,12 +1,9 @@
 original_name: Preparedness
-name: Preparedness
+name: État de préparation
 description: >-
-  <p>When <strong>you need something unusual or rare</strong>, roll
-  +Sharp.&nbsp;</p>
-success: <p><strong>On a 10+</strong>, you have it here right now.&nbsp;</p>
+  <p>Quand <strong>vous avez besoin de quelque chose d’inhabituel ou de rare</strong>, lancez +Futé.</p>
+success: <p><strong>Sur un 10+</strong>, vous l’obtenez sur-le-champ.</p>
 partial: >-
-  <p><strong>On a 7-9</strong> you have it, but not here: it will take
-  some time to get it.&nbsp;</p>
+  <p><strong>Sur un 7-9</strong>, vous savez où le trouver, mais cela va vous demander un peu de temps.</p>
 failure: >-
-  <p><strong>On a miss</strong>, you know where it is, but it&rsquo;s
-  somewhere real bad.</p>
+  <p><strong>En cas d’échec</strong>, vous savez où le trouver, mais l’endroit craint vraiment.</p>

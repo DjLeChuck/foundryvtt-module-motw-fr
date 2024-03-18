@@ -4,10 +4,10 @@ description: >-
   <p>The Sect has ancient prophecies or divination techniques to predict the
   future. Once per mystery, you may use them. If <strong>you look at what the
   future holds</strong>, roll +Weird.&nbsp;</p>
-success: <p><strong>On a 10+</strong> hold 3.</p>
-partial: <p><strong>On a 7-9</strong> hold 1.&nbsp;</p>
+success: <p><strong>Sur un 10+</strong>, hold 3.</p>
+partial: <p><strong>Sur un 7-9</strong>, hold 1.&nbsp;</p>
 failure: >-
-  <p><strong>On a miss</strong>, you get bad information and the Keeper
+  <p><strong>En cas d’échec</strong>, you get bad information and the Keeper
   decides how that affects you.&nbsp;</p>
 choices: >-
   <p>Spend your hold to:</p>

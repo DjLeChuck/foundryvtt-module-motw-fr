@@ -6,9 +6,9 @@ description: >-
 
   <p>This move takes the place of regular first aid.</p>
 success: >-
-  <p><strong>On a 10+</strong> the patient is stabilized and healed of 2
+  <p><strong>Sur un 10+</strong>, the patient is stabilized and healed of 2
   harm.&nbsp;</p>
 partial: >-
-  <p><strong>On a 7-9</strong> choose one: heal 2 harm or stabilize the
+  <p><strong>Sur un 7-9</strong>, choose one: heal 2 harm or stabilize the
   injury.&nbsp;</p>
-failure: <p><strong>On a miss</strong>, you cause an extra 1 harm.&nbsp;</p>
+failure: <p><strong>En cas d’échec</strong>, you cause an extra 1 harm.&nbsp;</p>

@@ -2,11 +2,11 @@ original_name: Often Overlooked
 name: Often Overlooked
 description: <p>When you <strong>act all crazy</strong> to avoid something, roll +Weird. </p>
 success: >-
-  <p><strong>On a 10+</strong> you&rsquo;re regarded as unthreatening and
+  <p><strong>Sur un 10+</strong>, you&rsquo;re regarded as unthreatening and
   unimportant.&nbsp;</p>
 partial: >-
   <p><strong>On a 7-9, </strong>pick one: unthreatening or
   unimportant.&nbsp;</p>
 failure: >-
-  <p><strong>On a miss</strong>, you draw lots (but not all) of the
+  <p><strong>En cas d’échec</strong>, you draw lots (but not all) of the
   attention.</p>

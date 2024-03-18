@@ -8,10 +8,10 @@ success: >-
   <p><strong>On 10+</strong>, your action has no effect beyond the
   exchange of some angry words.</p>
 partial: >-
-  <p><strong>On 7-9</strong> choose one of the bond abuse options
+  <p><strong>Sur un 7-9</strong>, choose one of the bond abuse options
   below.</p>
 failure: >-
-  <p><strong>On a miss</strong>, the Keeper may choose two of the bond
+  <p><strong>En cas d’échec</strong>, the Keeper may choose two of the bond
   abuse options below, or something worse.&nbsp;</p>
 choices: >-
   <p>Bond abuse options:</p>

@@ -26,6 +26,6 @@ success: >-
 
   </ul>
 partial: >-
-  <p><strong>On a 7-9</strong>, you move it but it hurts. Choose one
+  <p><strong>Sur un 7-9</strong>, you move it but it hurts. Choose one
   option and mark 2-harm.</p>
-failure: <p><strong>On a miss</strong>, something goes horribly wrong.</p>
+failure: <p><strong>En cas d’échec</strong>, something goes horribly wrong.</p>

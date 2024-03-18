@@ -27,6 +27,6 @@ success: >-
   <p><strong>On a 12 or more</strong>, you can continue acting at your
   body&rsquo;s limits for 30 seconds.</p>
 partial: >-
-  <p><strong>On a 7-9</strong>, you do it but choose one consequence:
+  <p><strong>Sur un 7-9</strong>, you do it but choose one consequence:
   suffer 1-harm, take &ndash;1 forward, or you need to rest right now.</p>
-failure: <p><strong>On a miss</strong>, something goes horribly wrong.</p>
+failure: <p><strong>En cas d’échec</strong>, something goes horribly wrong.</p>

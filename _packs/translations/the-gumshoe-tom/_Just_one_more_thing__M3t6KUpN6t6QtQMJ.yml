@@ -3,10 +3,10 @@ name: '"Just one more thing"'
 description: >-
   <p>When you <strong>ask</strong> a suspect <strong>leading
   questions</strong>, roll +Charm.</p>
-success: <p><strong>On a 10+</strong> hold 2</p>
-partial: <p><strong>On a 7-9</strong> hold 1</p>
+success: <p><strong>Sur un 10+</strong>, hold 2</p>
+partial: <p><strong>Sur un 7-9</strong>, hold 1</p>
 failure: >-
-  <p><strong>On a miss</strong> hold 1 but something bad is going to
+  <p><strong>En cas d’échec</strong>,hold 1 but something bad is going to
   happen too.</p>
 choices: >-
   <p>Spend your hold to ask questions from this list:</p>

@@ -12,9 +12,9 @@ success: >-
   <p><strong>On a 12 or more</strong>, you gain +1 ongoing when operating
   the device.</p>
 partial: >-
-  <p><strong>On a 7-9</strong>, you pick one requirement and the Keeper
+  <p><strong>Sur un 7-9</strong>, you pick one requirement and the Keeper
   picks a second one.</p>
 failure: >-
-  <p><strong>On a miss</strong>, something goes horribly wrong. You are
+  <p><strong>En cas d’échec</strong>, something goes horribly wrong. You are
   still able to create your device, but the Keeper picks three
   requirements.</p>

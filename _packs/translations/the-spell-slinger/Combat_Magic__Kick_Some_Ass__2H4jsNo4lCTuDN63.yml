@@ -11,7 +11,7 @@ description: >-
   <p>Your combat spells can combine any of your base spells&nbsp;with any of
   your effects.</p>
 success: >-
-  <p><strong>On a 10+</strong>, choose one extra effect:</p>
+  <p><strong>Sur un 10+</strong>, choose one extra effect:</p>
 
   <ul>
 
@@ -48,5 +48,5 @@ partial: >-
   rating of your weapon and your enemy inflicts their attack&rsquo;s harm
   rating on you.</p>
 failure: >-
-  <p><strong>On a miss</strong>, you get your ass kicked instead. You
+  <p><strong>En cas d’échec</strong>, you get your ass kicked instead. You
   suffer harm or get captured, but don&rsquo;t inflict any harm back.</p>

@@ -1,10 +1,9 @@
 original_name: Precise Strike
-name: Precise Strike
+name: Coup précis
 description: >-
-  <p>When you inflict harm on a monster, you can <strong>aim for a weak
-  spot</strong>. Roll +Tough.&nbsp;</p>
-success: <p><strong>On a 10+</strong> you inflict +2 harm.&nbsp;</p>
-partial: <p><strong>On a 7-9</strong> you inflict +1 harm.</p>
+  <p>Quand vous infligez des dégâts à un monstre, vous pouvez <strong>viser un point faible</strong>. Lancez
+  +Coriace.</p>
+success: <p><strong>Sur un 10+</strong>, vous infligez +2 dégâts.</p>
+partial: <p><strong>Sur un 7-9</strong>, vous infligez +1 dégât.</p>
 failure: >-
-  <p><strong>On a miss</strong>, you leave yourself open to the
-  monster.</p>
+  <p><strong>En cas d’échec</strong>, vous offrez au monstre l’occasion de vous toucher.</p>

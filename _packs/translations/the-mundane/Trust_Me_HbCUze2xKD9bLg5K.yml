@@ -4,10 +4,10 @@ description: >-
   <p>When <strong>you tell a normal person the truth in order to protect them
   from danger</strong>, roll +Charm.&nbsp;</p>
 success: >-
-  <p><strong>On a 10+</strong> they&rsquo;ll do what you say they should,
+  <p><strong>Sur un 10+</strong>, they&rsquo;ll do what you say they should,
   no questions asked.&nbsp;</p>
 partial: >-
-  <p><strong>On a 7-9</strong> they do it, but the Keeper chooses one
+  <p><strong>Sur un 7-9</strong>, they do it, but the Keeper chooses one
   from:</p>
 
   <ul>
@@ -20,5 +20,5 @@ partial: >-
 
   </ul>
 failure: >-
-  <p><strong>On a miss</strong>, they&rsquo;re going to think you&rsquo;re
+  <p><strong>En cas d’échec</strong>, they&rsquo;re going to think you&rsquo;re
   crazy and maybe dangerous too.</p>
