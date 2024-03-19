@@ -1,12 +1,9 @@
 original_name: Unquenchable Vitality
-name: Unquenchable Vitality
+name: Régénération
 description: >-
-  <p>When you have taken harm, <strong>you can heal yourself</strong>. Roll
-  +Cool.&nbsp;</p>
+  <p>Quand vous subissez des dégâts, <strong>vous pouvez vous soigner</strong>. Lancez +Cool.</p>
 success: >-
-  <p><strong>Sur un 10+</strong>, heal 2-harm and stabilise your
-  injuries.&nbsp;</p>
+  <p><strong>Sur un 10+</strong>, soignez 2 dégâts et stabilisez vos blessures.</p>
 partial: >-
-  <p><strong>Sur un 7-9</strong>, heal 1-harm and stabilise your
-  injuries.</p>
-failure: <p><strong>En cas d’échec</strong>, your injuries worsen.</p>
+  <p><strong>Sur un 7-9</strong>, soignez 1 dégât et stabilisez vos blessures.</p>
+failure: <p><strong>En cas d’échec</strong>, vos blessures s’aggravent.</p>
