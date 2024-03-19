@@ -1,24 +1,16 @@
 original_name: Trust Me
-name: Trust Me
+name: Fais-moi confiance
 description: >-
-  <p>When <strong>you tell a normal person the truth in order to protect them
-  from danger</strong>, roll +Charm.&nbsp;</p>
+  <p>Quand <strong>vous dites la vérité à un individu normal pour le protéger du danger</strong>, +Charme.</p>
 success: >-
-  <p><strong>Sur un 10+</strong>, they&rsquo;ll do what you say they should,
-  no questions asked.&nbsp;</p>
+  <p><strong>Sur un 10+</strong>, il fait ce que vous lui dites sans poser de questions</p>
 partial: >-
-  <p><strong>Sur un 7-9</strong>, they do it, but the Keeper chooses one
-  from:</p>
+  <p><strong>Sur un 7-9</strong>, l’individu obtempère, mais le gardien choisit :</p>
 
   <ul>
-
-  <li>They ask you a hard question first.</li>
-
-  <li>They stall and dither a while.</li>
-
-  <li>They have a &ldquo;better&rdquo; idea.&nbsp;</li>
-
+    <li><em>L’individu commence par vous poser une question difficile ;</em></li>
+    <li><em>L’individu joue la montre et hésite un moment ;</em></li>
+    <li><em>L’individu a une « meilleure » idée.</em></li>
   </ul>
 failure: >-
-  <p><strong>En cas d’échec</strong>, they&rsquo;re going to think you&rsquo;re
-  crazy and maybe dangerous too.</p>
+  <p><strong>En cas d’échec</strong>, il pense que vous êtes fou, voire dangereux.</p>

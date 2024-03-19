@@ -1,12 +1,12 @@
 original_name: What Could Go Wrong?
-name: What Could Go Wrong?
+name: Qu’est-ce qui pourrait aller de travers ?
 description: >-
-  <p>Whenever you charge into immediate danger without hedging your bets, hold
-  2.&nbsp;</p>
+  <p>Quand <strong>vous foncez tête baissée</strong> sans protéger vos arrières, réserve 2.</p>
 choices: |-
-  <p>You may spend your hold to:</p>
+  <p>Vous pouvez dépenser votre réserve pour :</p>
+  
   <ul>
-  <li>Inflict +1 harm.</li>
-  <li>Reduce someone&rsquo;s harm suffered by 1.</li>
-  <li>Take +2 forward on an <strong>act under pressure</strong> roll.</li>
+    <li><em>Infliger +1 dégât ;</em></li>
+    <li><em>Diminuer de 1 les dégâts subis par quelqu’un ;</em></li>
+    <li><em>Gagner +2 temporaire quand vous <strong>agissez sous pression</strong>.</em></li>
   </ul>
