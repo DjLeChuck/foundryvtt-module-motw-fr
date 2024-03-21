@@ -1,12 +1,10 @@
 original_name: Hunches
-name: Hunches
+name: Pressentiments
 description: >-
-  <p><strong>When something bad is happening</strong> (or just about to
-  happen) somewhere that you aren&rsquo;t, roll +Sharp.&nbsp;</p>
+  <p>Quand <strong>quelque chose de mal arrive</strong> (ou est sur le point d’arriver) quelque part où vous ne vous
+  trouvez pas, lancez +Futé.</p>
 success: >-
-  <p>On a 10+ you knew where you needed to go, just in time to get
-  there.&nbsp;</p>
+  <p><strong>Sur un 10+</strong>, vous découvrez où vous rendre juste à temps pour y parvenir.</p>
 partial: >-
-  <p>On a 7-9, you get there late&mdash;in time to intervene, but not
-  prevent it altogether.&nbsp;</p>
-failure: <p>On a miss, you get there just in time to be in trouble yourself.</p>
+  <p><strong>Sur un 7-9</strong>, vous arrivez à temps pour intervenir, mais pas pour l’empêcher complètement.</p>
+failure: <p><strong>En cas d’échec</strong>, vous arrivez à temps pour vous retrouver dans la mouise.</p>
