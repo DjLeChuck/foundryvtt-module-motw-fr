@@ -87,7 +87,7 @@ compendium_labels = {
     "the-spell-slinger": "Le Magicien",
     "the-spooky": "L’Épouvantail",
     "the-wronged": "Le Vengeur",
-    "the-weird-basic-moves-tom": "the-weird-basic-moves-tom",
+    "weird-basic-moves-tom": "Manœuvres bizarres [ToM]",
 }
 
 generate_json(input_directory, output_dir, compendium_labels)
