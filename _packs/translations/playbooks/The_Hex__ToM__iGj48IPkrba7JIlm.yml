@@ -20,12 +20,12 @@ description: >-
     @UUID[Compendium.motw-for-pbta.the-hex-tom.Item.BLXwBcs3dhikwZkZ]{Items} can be
     dragged and dropped to the appropriate header/field. For other values and descriptions,
     you need to copy and paste, or manually change them.</em></p>
-  <p> </p>
+  
   </td>
   
     </tr>
   <tr>
-  <td style="vertical-align:top">
+  <td style="padding: 8px;">
   <h3>Apparence</h3>
   <p><em>Choisissez un élément de chaque liste :</em></p>
   <ul>
@@ -47,7 +47,7 @@ description: >-
   
     <li>Charm=0, Cool=0, Sharp+2, Tough–1, Weird+2</li>
   </ul>
-  <h3><br />Moves</h3>
+  <h3>Manœuvres</h3>
   
     <p>You have three Hex moves. You have this one:</p>
   <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.BLXwBcs3dhikwZkZ]{Bad
@@ -93,7 +93,7 @@ description: >-
   <p>@UUID[Compendium.motw-for-pbta.the-hex-tom.Item.oSaMB3pxTWzaaQXx]{Temptation:
     Vengeance}</p>
   </td>
-  <td style="vertical-align:top">
+  <td style="padding: 8px;">
   <h3>Rotes</h3>
   <p>Whenever
     you <strong>use magic</strong>, you can decide afterwards that a particular spell
@@ -212,7 +212,7 @@ description: >-
     another two Rotes}</p>
   <p>@UUID[Compendium.motw-for-pbta.tags.Item.EGX38KYqoGly3cI7]{Choose
     an advanced Hex move (see below)}</p>
-  <p> </p>
+  
   <h3>Advanced Hex Moves</h3>
   <p><em>When
     you take the “Choose one advanced Hex move” improvement, choose one of these moves.

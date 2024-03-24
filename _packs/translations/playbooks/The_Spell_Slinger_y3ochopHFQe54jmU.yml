@@ -17,11 +17,14 @@ description: >-
     @UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.TAsimP7kEy3Hmncp]{Items}can
     be dragged and dropped to the appropriate header/field. For other values and descriptions,
     you need to copy and paste, or manually change them.<br /><br /></em></p>
+  <p><em>Instructions : Les @UUID[Compendium.motw-for-pbta.the-initiate.Item.inlB2VItVFDESkxR]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les autres valeurs et descriptions, vous
+  devez les copier/coller, ou les modifier manuellement.</em></p>
   </td>
   
     </tr>
   <tr>
-  <td style="vertical-align:top">
+  <td style="padding: 8px;">
   <h3>Apparence</h3>
   <p><em>Choisissez un élément de chaque liste :</em></p>
   <ul>
@@ -81,7 +84,7 @@ description: >-
   </ul>
   </td>
   
-    <td style="vertical-align:top">
+    <td style="padding: 8px;">
   <h3>Manœuvres</h3>
   <p>You get all the basic moves
     and four Spell-slinger moves.</p>
@@ -158,9 +161,8 @@ description: >-
   </ul>
   </td>
   </tr>
-  <tr style="
-    height:17px">
-  <td style="height:17px" colspan="2"><br />
+  <tr>
+  <td style="padding: 8px;" colspan="2">
   <h2>Prendre du galon</h2>
   <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou « Améliorations avancées » en édition.
   Glissez-déposez l’amélioration que vous souhaitez utiliser dans les listes ci-dessous pour garder une trace de

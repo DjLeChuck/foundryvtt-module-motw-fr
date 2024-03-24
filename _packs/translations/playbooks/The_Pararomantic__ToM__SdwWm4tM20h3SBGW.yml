@@ -18,12 +18,15 @@ description: >-
     @UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.lRCjuEnqn6DDHV5j]{Items}
     can be dragged and dropped to the appropriate header/field. For other values and
     descriptions, you need to copy and paste, or manually change them.</em></p>
-  <p> </p>
+  <p><em>Instructions : Les @UUID[Compendium.motw-for-pbta.the-initiate.Item.inlB2VItVFDESkxR]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les autres valeurs et descriptions, vous
+  devez les copier/coller, ou les modifier manuellement.</em></p>
+  
   
     </td>
   </tr>
   <tr>
-  <td style="vertical-align:top">
+  <td style="padding: 8px;">
   <h3>Apparence</h3>
   <p><em>Choisissez un élément de chaque liste :</em></p>
   <ul>
@@ -58,7 +61,7 @@ description: >-
   <p>Whenever you
     put yourself or somebody else in serious danger in order to conceal the truth about
     you and your Guide, mark experience.</p>
-  <h3><br />Moves</h3>
+  <h3>Manœuvres</h3>
   <p>You get all of
     the basic moves, plus three Pararomantic moves.</p>
   <p>You get this one:</p>
@@ -88,7 +91,7 @@ description: >-
   <p>@UUID[Compendium.motw-for-pbta.the-pararomantic-tom.Item.yWjGOb4Yk6a3fiqF]{Bond
     Abuse}</p>
   </td>
-  <td style="vertical-align:top">
+  <td style="padding: 8px;">
   <h3>Équipement</h3>
   <p><em>Choose
     two of these normal things (Please note that you, or your Keeper must create these
@@ -150,7 +153,7 @@ description: >-
   </td>
   </tr>
   <tr>
-  <td colspan="2"><br />
+  <td style="padding: 8px;" colspan="2">
   <h2>Prendre du galon</h2>
   <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou « Améliorations avancées » en édition.
   Glissez-déposez l’amélioration que vous souhaitez utiliser dans les listes ci-dessous pour garder une trace de

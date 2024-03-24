@@ -20,7 +20,10 @@ description: >-
     and pick history.<br /><br /><em><strong>Instructions</strong>: @UUID[Compendium.motw-for-pbta.the-professional.Item.poCbBF4U55INB6yn]{Items}
     can be dragged and dropped to the appropriate header/field. For other values and
     descriptions, you need to copy and paste, or manually change them.</em></p>
-  <p> </p>
+  <p><em>Instructions : Les @UUID[Compendium.motw-for-pbta.the-initiate.Item.inlB2VItVFDESkxR]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les autres valeurs et descriptions, vous
+  devez les copier/coller, ou les modifier manuellement.</em></p>
+  
   
     </td>
   </tr>
@@ -187,9 +190,8 @@ description: >-
     </ul>
   </td>
   </tr>
-  <tr style="height:17px">
-  <td style="height:17px" colspan="
-    2"><br />
+  <tr>
+  <td style="padding: 8px;" colspan="2">
   <h2>Prendre du galon</h2>
   <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou « Améliorations avancées » en édition.
   Glissez-déposez l’amélioration que vous souhaitez utiliser dans les listes ci-dessous pour garder une trace de

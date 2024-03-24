@@ -19,12 +19,14 @@ description: >-
     @UUID[Compendium.motw-for-pbta.the-wronged.Item.WnNJYmKvZghLHfVY]{Items} can be
     dragged and dropped to the appropriate header/field. For other values and descriptions,
     you need to copy and paste, or manually change them.</em></p>
-  <p> </p>
+  <p><em>Instructions : Les @UUID[Compendium.motw-for-pbta.the-initiate.Item.inlB2VItVFDESkxR]{objets}
+  peuvent être glissés/déposés dans l’en-tête/le champ approprié. Pour les autres valeurs et descriptions, vous
+  devez les copier/coller, ou les modifier manuellement.</em></p>
   </td>
   
     </tr>
   <tr>
-  <td style="vertical-align:top">
+  <td style="padding: 8px;">
   <h3>Apparence</h3>
   <p><em>Choisissez un élément de chaque liste :</em></p>
   <ul>
@@ -87,7 +89,7 @@ description: >-
     <em>pick the monster breed:</em></h4>
   <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.GLLgsO0oI23uVViC]{What:
     My prey}</p>
-  <p> </p>
+  
   <h3>Manœuvres</h3>
   <p>You get all the basic moves plus three
     Wronged moves. <em>You get this one</em>:</p>
@@ -109,7 +111,7 @@ description: >-
     <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.UE5mqeHkx5hjOl1E]{What Does Not
     Kill Me...}</p>
   </td>
-  <td style="vertical-align:top">
+  <td style="padding: 8px;">
   <h3>Équipement</h3>
   <p>Pick
     one signature weapon and two practical weapons.</p>
@@ -186,9 +188,8 @@ description: >-
   </ul>
   </td>
   </tr>
-  <tr style="height:34px">
-  <td style="
-    height:34px" colspan="2"><br />
+  <tr>
+  <td style="padding: 8px;" colspan="2">
   <h2>Prendre du galon</h2>
   <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou « Améliorations avancées » en édition.
   Glissez-déposez l’amélioration que vous souhaitez utiliser dans les listes ci-dessous pour garder une trace de
