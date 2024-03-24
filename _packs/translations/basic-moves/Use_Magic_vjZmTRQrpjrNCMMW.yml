@@ -17,35 +17,35 @@ choices: >-
   <p><strong>Effets :</strong></p>
 
   <ul>
-    <li>Infliger des dégâts (1 dégât, ignore l’armure, magique, évident) ;</li>
-    <li>Enchanter une arme (+1 dégât, magique) ;</li>
-    <li>Faire une chose qui dépasse les limites humaines ;</li>
-    <li>Barrer un lieu ou une porte pour un individu ou un type de créatures précis ;</li>
-    <li>Piéger un individu, sbire ou monstre précis ;</li>
-    <li>Bannir un esprit ou lever une malédiction affectant un individu, un objet ou un lieu ;</li>
-    <li>Invoquer un monstre ;</li>
-    <li>Communiquer avec quelqu’un ou quelque chose dont vous ne connaissez pas la langue ;</li>
-    <li>Observer un autre lieu ou temps ;</li>
-    <li>Éliminer 1 dégât, soigner une maladie ou neutraliser un poison.</li>
+    <li><em>Infliger des dégâts (1 dégât, ignore l’armure, magique, évident) ;</em></li>
+    <li><em>Enchanter une arme (+1 dégât, magique) ;</em></li>
+    <li><em>Faire une chose qui dépasse les limites humaines ;</em></li>
+    <li><em>Barrer un lieu ou une porte pour un individu ou un type de créatures précis ;</em></li>
+    <li><em>Piéger un individu, sbire ou monstre précis ;</em></li>
+    <li><em>Bannir un esprit ou lever une malédiction affectant un individu, un objet ou un lieu ;</em></li>
+    <li><em>Invoquer un monstre ;</em></li>
+    <li><em>Communiquer avec quelqu’un ou quelque chose dont vous ne connaissez pas la langue ;</em></li>
+    <li><em>Observer un autre lieu ou temps ;</em></li>
+    <li><em>Éliminer 1 dégât, soigner une maladie ou neutraliser un poison.</em></li>
   </ul>
   
   <p><strong>Pépins :</strong></p>
   
   <ul>
-    <li>L’effet est amoindri ;</li>
-    <li>L’effet est raccourci ;</li>
-    <li>Vous subissez 1 dégât (ignore l’armure) ;</li>
-    <li>La magie attire l’attention ;</li>
-    <li>Elle produit un effet secondaire fâcheux.</li>
+    <li><em>L’effet est amoindri ;</em></li>
+    <li><em>L’effet est raccourci ;</em></li>
+    <li><em>Vous subissez 1 dégât (ignore l’armure) ;</em></li>
+    <li><em>La magie attire l’attention ;</em></li>
+    <li><em>Elle produit un effet secondaire fâcheux.</em></li>
   </ul>
   
   <p><strong>Le Gardien peut exiger de vous un ou plusieurs des points suivants :</strong></p>
   
   <ul>
-    <li>Le sort nécessite des composantes exotiques ;</li>
-    <li>Le temps d’incantation du sort est de 10 secondes, 30 secondes ou 1 minute ;</li>
-    <li>L’incantation s’accompagne de chants et de gestes rituels ;</li>
-    <li>L’incantation s’accompagne de symboles ésotériques qu’il vous faut tracer ;</li>
-    <li>Vous avez besoin d’une personne ou deux pour vous aider à lancer le sort ;</li>
-    <li>Vous devez vous tourner vers un grimoire pour y trouver certains détails.</li>
+    <li><em>Le sort nécessite des composantes exotiques ;</em></li>
+    <li><em>Le temps d’incantation du sort est de 10 secondes, 30 secondes ou 1 minute ;</em></li>
+    <li><em>L’incantation s’accompagne de chants et de gestes rituels ;</em></li>
+    <li><em>L’incantation s’accompagne de symboles ésotériques qu’il vous faut tracer ;</em></li>
+    <li><em>Vous avez besoin d’une personne ou deux pour vous aider à lancer le sort ;</em></li>
+    <li><em>Vous devez vous tourner vers un grimoire pour y trouver certains détails.</em></li>
   </ul>

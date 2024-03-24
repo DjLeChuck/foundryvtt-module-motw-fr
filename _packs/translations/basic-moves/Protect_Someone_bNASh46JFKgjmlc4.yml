@@ -6,10 +6,10 @@ success: >-
   <p><strong>Sur un 10+</strong>, choisissez un effet supplémentaire :</p>
 
   <ul>
-    <li>Vous subissez moins de dégâts (-1 dégât) ;</li>
-    <li>C’est maintenant vous qui êtes en danger ;</li>
-    <li>Vous infligez des dégâts à l’ennemi ;</li>
-    <li>Vous contenez l’ennemi.</li>
+    <li><em>Vous subissez moins de dégâts (-1 dégât) ;</em></li>
+    <li><em>C’est maintenant vous qui êtes en danger ;</em></li>
+    <li><em>Vous infligez des dégâts à l’ennemi ;</em></li>
+    <li><em>Vous contenez l’ennemi.</em></li>
   </ul>
 
   <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous vous défendez à la perfection. Vous et le personnage protégé

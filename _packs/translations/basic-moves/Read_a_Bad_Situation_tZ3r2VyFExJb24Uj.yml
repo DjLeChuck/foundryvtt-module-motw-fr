@@ -16,12 +16,12 @@ choices: >-
   <p>Un point de réserve peut être dépensé pour poser une des questions suivantes au Gardien.</p>
 
   <ul>
-    <li>Quelle est la meilleure façon d’entrer pour moi ?</li>
-    <li>Quelle est la meilleure façon de sortir pour moi ?</li>
-    <li>Y a-t-il des dangers que nous n’avons pas remarqués ?</li>
-    <li>Quelle est la plus grande menace ?</li>
-    <li>Qu’est-ce qui est le plus vulnérable pour moi ?</li>
-    <li>Quelle est la meilleure façon de protéger les victimes ?</li>
+    <li><em>Quelle est la meilleure façon d’entrer pour moi ?</em></li>
+    <li><em>Quelle est la meilleure façon de sortir pour moi ?</em></li>
+    <li><em>Y a-t-il des dangers que nous n’avons pas remarqués ?</em></li>
+    <li><em>Quelle est la plus grande menace ?</em></li>
+    <li><em>Qu’est-ce qui est le plus vulnérable pour moi ?</em></li>
+    <li><em>Quelle est la meilleure façon de protéger les victimes ?</em></li>
   </ul>
 
   <p>Si vous agissez conformément aux réponses obtenues, gagnez +1 constant tant que l’information est pertinente.</p>

@@ -6,20 +6,20 @@ success: >-
   <p><strong>Si vous obtenez 10+</strong>, choisissez un effet supplémentaire :</p>
   
   <ul>
-    <li>Gagnez +1 temporaire ou donnez +1 temporaire à un autre chasseur ;</li>
-    <li>Vous infligez des dégâts considérables (+1 dégât) ;</li>
-    <li>Vous subissez moins de dégâts (-1 dégât) ;</li>
-    <li>Vous le poussez où vous le voulez.</li>
+    <li><em>Gagnez +1 temporaire ou donnez +1 temporaire à un autre chasseur ;</em></li>
+    <li><em>Vous infligez des dégâts considérables (+1 dégât) ;</em></li>
+    <li><em>Vous subissez moins de dégâts (-1 dégât) ;</em></li>
+    <li><em>Vous le poussez où vous le voulez.</em></li>
   </ul>
   
   <p><strong>Manœuvre avancée : Sur un 12+</strong>, vous portez un coup dévastateur à l’ennemi, qui n’en croit pas ses
   yeux. Vous infligez et subissez des dégâts normalement et choisissez un des effets suivants :</p>
   
   <ul>
-    <li>vous avez l’avantage, tous les chasseurs mêlés au combat gagnent +1 temporaire ;</li>
-    <li>vous ne subissez pas de dégâts ;</li>
-    <li>votre attaque inflige le double des dégâts normaux ;</li>
-    <li>votre attaque met l’ennemi en déroute.</li>
+    <li><em>Vous avez l’avantage, tous les chasseurs mêlés au combat gagnent +1 temporaire ;</em></li>
+    <li><em>Vous ne subissez pas de dégâts ;</em></li>
+    <li><em>Votre attaque inflige le double des dégâts normaux ;</em></li>
+    <li><em>Votre attaque met l’ennemi en déroute.</em></li>
   </ul>
 partial: >-
   <p><strong>Sur un 7+</strong>, vous et ce que vous combattez infligez des dégâts en fonction de divers paramètres.

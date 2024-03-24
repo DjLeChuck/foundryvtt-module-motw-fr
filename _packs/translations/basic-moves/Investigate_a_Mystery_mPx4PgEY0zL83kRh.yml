@@ -10,11 +10,11 @@ choices: >-
   <p>Un point de réserve permet de poser au Gardien une des questions suivantes :</p>
   
   <ul>
-    <li>Que s’est-il passé ici ?</li>
-    <li>De quel genre de créature s’agit-il ?</li>
-    <li>Que sait-elle faire ?</li>
-    <li>À quoi est-elle vulnérable ?</li>
-    <li>Où est-elle partie ?</li>
-    <li>Que voulait-elle faire ?</li>
-    <li>Y a-t-il quelque chose de caché par ici ?</li>
+    <li><em>Que s’est-il passé ici ?</em></li>
+    <li><em>De quel genre de créature s’agit-il ?</em></li>
+    <li><em>Que sait-elle faire ?</em></li>
+    <li><em>À quoi est-elle vulnérable ?</em></li>
+    <li><em>Où est-elle partie ?</em></li>
+    <li><em>Que voulait-elle faire ?</em></li>
+    <li><em>Y a-t-il quelque chose de caché par ici ?</em></li>
   </ul>
