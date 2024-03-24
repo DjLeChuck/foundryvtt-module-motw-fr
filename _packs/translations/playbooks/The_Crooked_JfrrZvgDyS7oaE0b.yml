@@ -32,7 +32,7 @@ description: >-
   <li>Streetwear, costume sur mesure, costume bon marché, survêtement, vêtements quelconques.</li>
   </ul>
   <h3>Ratings</h3>
-  <p><em>Choisissez une ligne</em></p>
+  <p><em>Choisissez une ligne :</em></p>
   <ul>
   <li>Charme +1, Cool +1, Futé +2, Coriace 0, Bizarre -1</li>
   <li>Charme -1, Cool +1, Futé +1, Coriace +2, Bizarre 0</li>
@@ -110,7 +110,7 @@ description: >-
     <li>Fusil d’assaut (3 dégâts, proche/loin, automatique)</li>
   </ul>
   
-  <h3>Effet spécial du Vaurien</h3>
+  <h3>Chance spéciale</h3>
   <p>Chaque fois que vous dépensez un point de Chance, un individu de votre passé (pression ou milieu) ne tarde pas à
   réapparaître dans votre vie.</p>
   
