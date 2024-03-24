@@ -21,7 +21,7 @@ description: "<p>Everything’s connected. But not everyone can see the patterns
   Sharp+2, Tough-1, Weird=0</li>\n<li>Charm=0, Cool+1, Sharp+2, Tough-1, Weird+1</li>\n
   <li>Charm+1, Cool-1, Sharp+2, Tough+1, Weird=0</li>\n<li>Charm+1, Cool-1, Sharp+2,
   Tough=0, Weird+1</li>\n<li>Charm-1, Cool-1, Sharp+2, Tough=0, Weird+2</li>\n</ul>\n
-  <p> </p>\n<h3>Moves</h3>\n<p><em>You get all of the basic moves, plus pick three
+  <p> </p>\n<h3>Manœuvres</h3>\n<p><em>You get all of the basic moves, plus pick three
   Flake moves:</em></p>\n<p>@UUID[Compendium.motw-for-pbta.the-flake.Item.PfXMIZtl89Zv4VwS]{Connect
   The Dots}</p>\n<p>@UUID[Compendium.motw-for-pbta.the-flake.Item.O5LkVf3j1IjCCMIq]{Contrary}</p>\n
   <p>@UUID[Compendium.motw-for-pbta.the-flake.Item.43SXz2zWNXDRHcAa]{Crazy Eyes}</p>\n
@@ -58,7 +58,7 @@ description: "<p>Everything’s connected. But not everyone can see the patterns
   ><br />\n<h2>Leveling Up</h2>\n<p><em>On the Character Sheet, open either Improvements
   or Advanced Improvements for editing. Drag and drop the improvement you wish to
   use from the lists below to keep track of which ones you have used. Please note
-  that the module won't track this for you.</em></p>\n<h3>Improvements</h3>\n<p><em>When
+  that the module won't track this for you.</em></p>\n<h3>Améliorations</h3>\n<p><em>When
   you have filled all five experience boxes, you level up. Erase the marks and pick
   an improvement from the following list:</em></p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]{Get
   +1 Sharp, max +3}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get
@@ -70,7 +70,7 @@ description: "<p>Everything’s connected. But not everyone can see the patterns
   a Haven, like the Expert has, with two options}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.AzMivUQ0PLVKQDm2]{Gain
   another option for your haven}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
   a move from another playbook}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
-  a move from another playbook}</p>\n<p> </p>\n<h3>Advanced Improvements</h3>\n<p><em>After
+  a move from another playbook}</p>\n<p> </p>\n<h3>Améliorations avancées</h3>\n<p><em>After
   you have leveled up five times, you qualify for advanced improvements in addition
   to these. They’re below:</em></p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
   +1 to any rating, max +3.}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change

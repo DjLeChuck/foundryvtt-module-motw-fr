@@ -45,7 +45,7 @@ description: "<blockquote>\n<p>It’s kind of strange when your regular 9-to-5 j
   Tape: Live capture policy}</p>\n<p>@UUID[Compendium.motw-for-pbta.the-professional.Item.prtCFhsrfxvRbA9R]{Red
   Tape: Secretive hierarchy}</p>\n<p>@UUID[Compendium.motw-for-pbta.the-professional.Item.KWdRztOa4W5GtyPA]{Red
   Tape: Take no prisoners policy}</p>\n</td>\n<td style=\"vertical-align:top;height:1354px\"\
-  >\n<h3>Moves</h3>\n<p>You get all the basic moves, plus four Professional moves.</p>\n
+  >\n<h3>Manœuvres</h3>\n<p>You get all the basic moves, plus four Professional moves.</p>\n
   <p><em>Pick three of these</em>:</p>\n<p>@UUID[Compendium.motw-for-pbta.the-professional.Item.poCbBF4U55INB6yn]{Battlefield
   Awareness}</p>\n<p>@UUID[Compendium.motw-for-pbta.the-professional.Item.3ao7Q7GzwaVng6Ek]{Bottle
   It Up}</p>\n<p>@UUID[Compendium.motw-for-pbta.the-professional.Item.62pmEg9aUwNvSdpA]{Leave
@@ -85,7 +85,7 @@ description: "<blockquote>\n<p>It’s kind of strange when your regular 9-to-5 j
   2\"><br />\n<h2>Leveling Up</h2>\n<p><em>On the Character Sheet, open either Improvements
   or Advanced Improvements for editing. Drag and drop the improvement you wish to
   use from the lists below to keep track of which ones you have used. Please note
-  that the module won't track this for you.</em><br /><br /></p>\n<h3>Improvements</h3>\n
+  that the module won't track this for you.</em><br /><br /></p>\n<h3>Améliorations</h3>\n
   <p><em>When you have filled all five experience boxes, you level up. Erase the marks
   and pick an improvement from the list below.</em></p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.HLKdeAtlzxgyKQER]{Get
   +1 Cool, max +3}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get
@@ -97,7 +97,7 @@ description: "<blockquote>\n<p>It’s kind of strange when your regular 9-to-5 j
   a new resource tag for your Agency or change a red tape tag}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.7M8HpLDdXuUNJHAA]{Get
   command of an Agency team of monster hunters}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
   a move from another playbook}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
-  a move from another playbook}</p>\n<p> </p>\n<h3>Advanced Improvements</h3>\n<p><em>After
+  a move from another playbook}</p>\n<p> </p>\n<h3>Améliorations avancées</h3>\n<p><em>After
   you have leveled up five times, you qualify for advanced improvements in addition
   to these, from the list below.</em></p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
   +1 to any rating, max +3.}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change

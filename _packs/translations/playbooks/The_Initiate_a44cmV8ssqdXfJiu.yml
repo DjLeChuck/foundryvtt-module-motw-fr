@@ -91,7 +91,7 @@ description: "<blockquote>\n<p>Since the dawn of history, we have been the bulwa
   colspan=\"2\"><br />\n<h2>Leveling Up</h2>\n<p><em>On the Character Sheet, open
   either Improvements or Advanced Improvements for editing. Drag and drop the improvement
   you wish to use from the lists below to keep track of which ones you have used.
-  Please note that the module won't track this for you.</em><br /><br /></p>\n<h3>Improvements</h3>\n
+  Please note that the module won't track this for you.</em><br /><br /></p>\n<h3>Améliorations</h3>\n
   <p><em>When you have filled all five experience boxes, you level up. Erase the marks
   and pick an improvement from the list below.</em></p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get
   +1 Weird, max +3}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get
@@ -103,7 +103,7 @@ description: "<blockquote>\n<p>Since the dawn of history, we have been the bulwa
   command of your chapter of the Sect}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.lqN4DrqH35RLs7pw]{Get
   a Sect team under your command}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
   a move from another playbook}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
-  a move from another playbook}</p>\n<p> </p>\n<h3>Advanced Improvements</h3>\n<p><em>After
+  a move from another playbook}</p>\n<p> </p>\n<h3>Améliorations avancées</h3>\n<p><em>After
   you have leveled up five times, you qualify for advanced improvements in addition
   to these, from the list below.</em></p>\n<p><em>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
   +1 to any rating, max +3.}</em></p>\n<p><em>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change

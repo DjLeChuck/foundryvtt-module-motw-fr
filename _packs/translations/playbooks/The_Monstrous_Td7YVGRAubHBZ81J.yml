@@ -63,7 +63,7 @@ description: "<blockquote>\n<p>I feel the hunger, the lust to destroy. But I fig
   Natural attacks: Base: teeth; add ignore-armour to teeth. Moves: Unholy strength;
   dark negotiator.</li>\n<li><strong>Zombie</strong>: Curse: pure drive (hunger),
   feed (flesh or brains). Natural attacks: Base: teeth; +1 harm to teeth. Moves: immortal;
-  unquenchable vitality.</li>\n</ul>\n</td>\n<td style=\"vertical-align:top\">\n<h3>Moves</h3>\n
+  unquenchable vitality.</li>\n</ul>\n</td>\n<td style=\"vertical-align:top\">\n<h3>Manœuvres</h3>\n
   <p>You get all the basic moves, plus pick two Monstrous moves:</p>\n<p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.hlQlxq6JV7ynHLaL]{Claws
   of the Beast}</p>\n<p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.5diUOzVSsnbNsPer]{Dark
   Negotiator}</p>\n<p>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.670Avpw7pud6OmT5]{Flight}</p>\n
@@ -101,7 +101,7 @@ description: "<blockquote>\n<p>I feel the hunger, the lust to destroy. But I fig
   <h2>Leveling Up</h2>\n<p><em>On the Character Sheet, open either Improvements or
   Advanced Improvements for editing. Drag and drop the improvement you wish to use
   from the lists below to keep track of which ones you have used. Please note that
-  the module won't track this for you.</em><br /><br /></p>\n<h3>Improvements</h3>\n
+  the module won't track this for you.</em><br /><br /></p>\n<h3>Améliorations</h3>\n
   <p><em>When you have filled all five experience boxes, you level up. Erase the marks
   and pick an improvement from the list below.</em></p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]{Get
   +1 Charm, max +2}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get
@@ -113,7 +113,7 @@ description: "<blockquote>\n<p>I feel the hunger, the lust to destroy. But I fig
   a haven, like the Expert has, with two options}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.gWDqfENfPSn5G1WO]{Take
   a natural attacks pick}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
   a move from another playbook}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
-  a move from another playbook}</p>\n<p> </p>\n<h3>Advanced Improvements</h3>\n<p><em>After
+  a move from another playbook}</p>\n<p> </p>\n<h3>Améliorations avancées</h3>\n<p><em>After
   you have leveled up five times, you qualify for advanced improvements in addition
   to these, from the list below.</em></p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
   +1 to any rating, max +3.}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change

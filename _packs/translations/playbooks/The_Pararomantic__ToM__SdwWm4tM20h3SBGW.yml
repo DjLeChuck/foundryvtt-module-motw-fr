@@ -69,7 +69,7 @@ description: "<blockquote>\n<p><em>“I sense too much to ever be understood by 
   the Character Sheet, open either Improvements or Advanced Improvements for editing.
   Drag and drop the improvement you wish to use from the lists below to keep track
   of which ones you have used. Please note that the module won't track this for you.</em><br
-  /><br /></p>\n<h3>Improvements</h3>\n<p><em>When you have filled all five experience
+  /><br /></p>\n<h3>Améliorations</h3>\n<p><em>When you have filled all five experience
   boxes, you level up. Erase the marks and pick an improvement from the list below.</em></p>\n
   <p>@UUID[Compendium.motw-for-pbta.tags.Item.nWUp4WIgxde4RmvU]{Get +1 Charm, max
   +3}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool,
@@ -80,7 +80,7 @@ description: "<blockquote>\n<p><em>“I sense too much to ever be understood by 
   another Pararomantic move}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.p3BJazXbsfSynhry]{Gain
   an ally}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
   a move from another playbook}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
-  a move from another playbook}</p>\n<p> </p>\n<h3>Advanced Improvements</h3>\n<p><em>After
+  a move from another playbook}</p>\n<p> </p>\n<h3>Améliorations avancées</h3>\n<p><em>After
   you have leveled up five times, you qualify for advanced improvements in addition
   to these, from the list below.</em></p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
   +1 to any rating, max +3.}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change

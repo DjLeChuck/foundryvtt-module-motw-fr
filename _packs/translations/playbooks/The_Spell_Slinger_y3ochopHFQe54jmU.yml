@@ -35,7 +35,7 @@ description: "<blockquote>\n<p><em>Fight fire with fire magic.</em></p>\n<p> </
   Add “+1 harm messy” to a base.<br />Frost or Ice: Adds “-1 harm +2 armour” to a
   wall, or “+1 harm restraining” to other bases.</li>\n<li>Earth: Add “forceful restraining”
   to a base.</li>\n<li>Necromantic: Add “life-drain” to a base.</li>\n</ul>\n</td>\n
-  <td style=\"vertical-align:top\">\n<h3>Moves</h3>\n<p>You get all the basic moves
+  <td style=\"vertical-align:top\">\n<h3>Manœuvres</h3>\n<p>You get all the basic moves
   and four Spell-slinger moves.</p>\n<p>You have this one:</p>\n<p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.Iyp0zmTVug4C6iX2]{Tools
   and Techniques}</p>\n<p>And you also get to use:</p>\n<p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.2H4jsNo4lCTuDN63]{Combat
   Magic [Kick Some Ass]}</p>\n<p>Plus pick three of these:</p>\n<p>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.TAsimP7kEy3Hmncp]{Advanced
@@ -72,7 +72,7 @@ description: "<blockquote>\n<p><em>Fight fire with fire magic.</em></p>\n<p> </
   <p><em>On the Character Sheet, open either Improvements or Advanced Improvements
   for editing. Drag and drop the improvement you wish to use from the lists below
   to keep track of which ones you have used. Please note that the module won't track
-  this for you.</em><br /><br /></p>\n<h3>Improvements</h3>\n<p><em>When you have
+  this for you.</em><br /><br /></p>\n<h3>Améliorations</h3>\n<p><em>When you have
   filled all five experience boxes, you level up. Erase the marks and pick an improvement
   from the list below.</em></p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.7E50cKxHS3EvimjR]{Get
   +1 Weird, max +3}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get
@@ -82,7 +82,7 @@ description: "<blockquote>\n<p><em>Fight fire with fire magic.</em></p>\n<p> </
   another Spell-Slinger move}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.TO1zUtAYGMkJYqgS]{Take
   another Spell-Slinger move}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
   a move from another playbook}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
-  a move from another playbook}</p>\n<p> </p>\n<h3>Advanced Improvements</h3>\n<p><em>After
+  a move from another playbook}</p>\n<p> </p>\n<h3>Améliorations avancées</h3>\n<p><em>After
   you have leveled up five times, you qualify for advanced improvements in addition
   to these, from the list below.</em></p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
   +1 to any rating, max +3.}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change

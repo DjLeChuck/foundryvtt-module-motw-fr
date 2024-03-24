@@ -40,7 +40,7 @@ description: "<blockquote>\n<p><em>They took my loved ones. Back then I wasn’t
   I was slow}</p>\n<p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.fGoSGviYzDflMZQd]{Why:
   I was weak}</p>\n<h4><br /><strong>What</strong> did it? With the Keeper’s agreement,
   <em>pick the monster breed:</em></h4>\n<p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.GLLgsO0oI23uVViC]{What:
-  My prey}</p>\n<p> </p>\n<h3>Moves</h3>\n<p>You get all the basic moves plus three
+  My prey}</p>\n<p> </p>\n<h3>Manœuvres</h3>\n<p>You get all the basic moves plus three
   Wronged moves. <em>You get this one</em>:</p>\n<p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.5KVIRNbG8hUmexUW]{I
   Know My Prey}</p>\n<p><em>Then pick two of these:</em></p>\n<p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.WnNJYmKvZghLHfVY]{Berserk}</p>\n
   <p>@UUID[Compendium.motw-for-pbta.the-wronged.Item.KrhhNvn87INek1Qh]{DIY Surgery}</p>\n
@@ -86,7 +86,7 @@ description: "<blockquote>\n<p><em>They took my loved ones. Back then I wasn’t
   Sheet, open either Improvements or Advanced Improvements for editing. Drag and drop
   the improvement you wish to use from the lists below to keep track of which ones
   you have used. Please note that the module won't track this for you.</em><br /><br
-  /></p>\n<h3>Improvements</h3>\n<p><em>When you have filled all five experience boxes,
+  /></p>\n<h3>Améliorations</h3>\n<p><em>When you have filled all five experience boxes,
   you level up. Erase the marks and pick an improvement from the list below.</em></p>\n
   <p>@UUID[Compendium.motw-for-pbta.tags.Item.Db5dKYP5eueIQfOY]{Get +1 Tough, max
   +3}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.Az2gDhhnsVYZmzrU]{Get +1 Cool,
@@ -98,7 +98,7 @@ description: "<blockquote>\n<p><em>They took my loved ones. Back then I wasn’t
   a haven, like the Expert has, with two options}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.kpKyvgPHaoOUjWTJ]{Add
   one more option to your haven}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
   a move from another playbook}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.d51jD0RZphJt2wox]{Take
-  a move from another playbook}</p>\n<p> </p>\n<h3>Advanced Improvements</h3>\n<p><em>After
+  a move from another playbook}</p>\n<p> </p>\n<h3>Améliorations avancées</h3>\n<p><em>After
   you have leveled up five times, you qualify for advanced improvements in addition
   to these, from the list below.</em></p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]{Get
   +1 to any rating, max +3.}</p>\n<p>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]{Change
