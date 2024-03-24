@@ -91,10 +91,10 @@ description: >-
   </ul>
 
   <h3>Présentations</h3>
-    <p>Lorsque vous en arrivez là, attendez que tout le monde vous rattrape pour que vous puissiez effectuer vos
-    présentations ensemble.</p>
-    <p>Faites le tour du groupe. Votre tour venu, présentez votre Vaurien en dévoilant son nom et son apparence, et en
-    disant aux autres membres du groupe ce qu’ils savent de vous.</p>
+  <p>Lorsque vous en arrivez là, attendez que tout le monde vous rattrape pour que vous puissiez effectuer vos
+  présentations ensemble.</p>
+  <p>Faites le tour du groupe. Votre tour venu, présentez votre Expert en dévoilant son nom et son apparence, et en
+  disant aux autres membres du groupe ce qu’ils savent de vous.</p>
 
   <h3>Histoire</h3>
   <p>Refaites le tour du groupe. Votre tour venu, choisissez une des lignes suivantes pour chaque autre chasseur :</p>
@@ -123,11 +123,11 @@ description: >-
   <p><em>Sur la feuille de personnage, ouvrez « Améliorations » ou « Améliorations avancées » en édition.
     Glissez-déposez l’amélioration que vous souhaitez utiliser dans les listes ci-dessous pour garder une trace de
     celles que vous avez utilisées. Veuillez noter que le module n’effectuera pas ce suivi à votre place.</em></p>
-  
-    <h3>Améliorations</h3>
+
+  <h3>Améliorations</h3>
   <p><em>Dès que vous avez coché cinq cases d’expérience, vous prenez du galon. Effacez le contenu des cases et
     choisissez une amélioration parmi les suivantes :</em></p>
-  
+
   <ul>
     <li>@UUID[Compendium.motw-for-pbta.tags.Item.5VTevx3R8atxoyjF]</li>
     <li>@UUID[Compendium.motw-for-pbta.tags.Item.V6RgdQOIDCAkRPS3]</li>
@@ -142,9 +142,9 @@ description: >-
   </ul>
 
   <h3>Améliorations avancées</h3>
-    <p><em>Après avoir pris du galon cinq fois, vous pouvez aussi choisir parmi les améliorations avancées
-    ci-dessous.</em></p>
-  
+  <p><em>Après avoir pris du galon cinq fois, vous pouvez aussi choisir parmi les améliorations avancées
+  ci-dessous.</em></p>
+
   <ul>
     <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
     <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
