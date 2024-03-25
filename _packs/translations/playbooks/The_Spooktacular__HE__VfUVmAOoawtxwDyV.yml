@@ -26,9 +26,8 @@ description: >-
   
     </td>
   </tr>
-  <tr style="height:17px">
-  <td style="vertical-align:top;height:17px"
-    >
+  <tr>
+  <td style="padding: 8px;">
   <h3>Apparence</h3>
   <p><em>Choisissez un élément de chaque liste :</em></p>
   <ul>
@@ -86,7 +85,7 @@ description: >-
   <p>@UUID[Compendium.motw-for-pbta.the-spooktacular-he.Item.oQYe8yForxjVnHrM]{The
     Old Crew}</p>
   </td>
-  <td style="vertical-align:top;height:17px">
+  <td style="padding: 8px;">
   <h3>Équipement</h3>
   
     <p>You get one camp tool, one vehicle, one mystical item, and all the paraphernalia.

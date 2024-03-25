@@ -27,9 +27,8 @@ description: >-
   
     </td>
   </tr>
-  <tr style="height:1354px">
-  <td style="vertical-align:top;height:1354px"
-    >
+  <tr>
+  <td style="padding: 8px;">
   <h3>Apparence</h3>
   <p><em>Choisissez un élément de chaque liste :</em></p>
   <ul>
@@ -101,8 +100,7 @@ description: >-
   <p>@UUID[Compendium.motw-for-pbta.the-professional.Item.KWdRztOa4W5GtyPA]{Red
     Tape: Take no prisoners policy}</p>
   </td>
-  <td style="vertical-align:top;height:1354px"
-    >
+  <td style="padding: 8px;">
   <h3>Manœuvres</h3>
   <p>You get all the basic moves, plus four Professional moves.</p>
   
