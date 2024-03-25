@@ -41,8 +41,8 @@ description: >-
     <li>Charme 0, Cool 0, Futé 0, Coriace +1, Bizarre +2</li>
   </ul>
   <h3>Manœuvres</h3>
-  <p><em>Vous connaissez toutes les manœuvres de base, auxquelles s’ajoutent quatre manœuvres d’Initié. Vous gagnez
-  celle-ci :</em></p>
+  <p><em>Vous connaissez toutes les manœuvres de base, auxquelles s’ajoutent quatre manœuvres d’Initié.</em></p>
+  <p><em>Vous gagnez celle-ci :</em></p>
   
   <ul>
     <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.aS10iGncRV4LrksE]</li>
@@ -187,14 +187,14 @@ description: >-
   ci-dessous.</em></p>
 
   <ul>
-    <li><em>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
-    <li><em>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
-    <li><em>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
-    <li><em>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
-    <li><em>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
-    <li><em>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
-    <li><em>@UUID[Compendium.motw-for-pbta.tags.Item.0YXPqLapuEmeEkgZ]</li>
-    <li><em>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.qjNRMMoUnwOUZ6VC]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.wM5snYWlmb6JVnRg]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.sFDHZDRWF8Ddjd8Z]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.akbqtyK0cB0wnrGL]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.XtTCVMLRHAtk0rs5]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.yY1FFOGA3HDmmxdN]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.0YXPqLapuEmeEkgZ]</li>
+    <li>@UUID[Compendium.motw-for-pbta.tags.Item.DCeW9fH7chGDBTqq]</li>
   </td>
   </tr>
   </tbody>
