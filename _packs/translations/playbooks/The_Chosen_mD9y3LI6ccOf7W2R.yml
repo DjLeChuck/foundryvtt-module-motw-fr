@@ -127,28 +127,27 @@ description: >-
   <ul>
     <li>
       Bâton
-      (<em>Ajoutez</em> :
-      @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ],
+      <em>(ajoutez @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ],
       @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS] /
-      @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP])
+      @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP])</em>
     </li>
     <li>
       Arme d’hast
-      (<em>Ajoutez</em> : @UUID[Compendium.motw-for-pbta.tags.Item.qG8S5oSRgQxXS93k],
+      <em>(ajoutez @UUID[Compendium.motw-for-pbta.tags.Item.qG8S5oSRgQxXS93k],
       @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS],
-      @UUID[Compendium.motw-for-pbta.tags.Item.MbIWZ3EHvZ9SQ5VK])
+      @UUID[Compendium.motw-for-pbta.tags.Item.MbIWZ3EHvZ9SQ5VK])</em>
     </li>
     <li>
       Masse d’arme
-      (<em>Ajoutez</em> : @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ],
+      <em>(ajoutez @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ],
       @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS],
-      @UUID[Compendium.motw-for-pbta.tags.Item.5N6EgQGuCXpMpSIv])
+      @UUID[Compendium.motw-for-pbta.tags.Item.5N6EgQGuCXpMpSIv])</em>
     </li>
     <li>
       Chaîne
-      (<em>Ajoutez</em> : @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ],
+      <em>(ajoutez @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ],
       @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS],
-      @UUID[Compendium.motw-for-pbta.tags.Item.8XhRBZRlIZOqNbxv])
+      @UUID[Compendium.motw-for-pbta.tags.Item.8XhRBZRlIZOqNbxv])</em>
     </li>
   </ul>
   
