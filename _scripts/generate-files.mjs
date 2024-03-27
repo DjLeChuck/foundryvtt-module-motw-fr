@@ -3,6 +3,8 @@ import path from 'path';
 import yaml from 'yaml';
 
 function generateJson(inputDir, outputDir, compendiumLabels) {
+  fs.mkdirSync(outputDir, { recursive: true });
+
   const keysToGrab = ['name', 'description', 'success', 'partial', 'failure', 'choices', 'tags'];
 
   for (const rootDir of fs.readdirSync(inputDir, { withFileTypes: true })) {
