@@ -19,8 +19,8 @@ unpack:
 
 extract:
 	@echo "Extraction des fichiers au format YAML..."
-	@python3 extract-packs.py
+	@node _scripts/extract-pack.mjs
 
 generate:
 	@echo "Génération des fichiers JSON..."
-	@python3 generate-files.py
+	@node _scripts/generate-files.mjs

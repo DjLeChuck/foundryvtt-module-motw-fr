@@ -1,2 +1,3 @@
 compendium/
 .env
+node_modules/
