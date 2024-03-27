@@ -1,11 +1,21 @@
 original_name: Crew
+original_description: >-
+  <p>Decide if your crew is the other hunters, or if you have an entourage.</p>
+
+  <p>If they are not the hunters, there are up to three of them. Pick a name and
+  job for each. Tell the Keeper&ndash;your crew are
+  <strong>bystanders</strong>.</p>
+
+  <p>If it&rsquo;s the other hunters, decide together who gets which job.</p>
+
+  <p><strong>Crew jobs:</strong> camera, sound, editing, dogsbody, researcher,
+  driver, director, producer, bodyguard.</p>
 name: Crew
 description: >-
-  <p>Decide if your crew is the other hunters, or if you have an
-  entourage.</p>
+  <p>Decide if your crew is the other hunters, or if you have an entourage.</p>
 
-  <p>If they are not the hunters, there are up to three of them. Pick a name
-  and job for each. Tell the Keeper&ndash;your crew are
+  <p>If they are not the hunters, there are up to three of them. Pick a name and
+  job for each. Tell the Keeper&ndash;your crew are
   <strong>bystanders</strong>.</p>
 
   <p>If it&rsquo;s the other hunters, decide together who gets which job.</p>
