@@ -67,7 +67,7 @@ description: >-
   <p>Vous devez également choisir les traditions de la secte (le Gardien s’en inspirera pour déterminer ses méthodes
   et actions) :</p>
   
-  <h4>Bonnes traditions (<em>Choisissez-en deux</em>) :</h4>
+  <h4>Bonnes traditions <em>(choisissez-en deux)</em> :</h4>
   
   <ul>
     <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.Xdf0Zn7MTryz2uRx]</li>  
@@ -85,7 +85,7 @@ description: >-
     <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.BE6c3TTo3Vtc6qWq]</li>
   </ul>
   
-  <h4>Mauvaises traditions (<em>Choisissez-en deux</em>) :</h4>
+  <h4>Mauvaises traditions <em>(choisissez-en deux)</em> :</h4>
   
   <ul>
     <li>@UUID[Compendium.motw-for-pbta.the-initiate.Item.3XtXFu8GJGxuYDhB]</li>
@@ -113,7 +113,7 @@ description: >-
 
   <p><em>Veuillez noter que vous, ou votre gardien, devez les créer manuellement.</em></p>
   
-  <h4>Armes archaïques (<em>Choisissez-en deux ou trois, cf. ci-dessus</em>) :</h4>
+  <h4>Armes archaïques <em>(choisissez-en deux ou trois, cf. ci-dessus)</em> :</h4>
   <ul>
     <li>Épée (2 dégâts, allonge, sanglant)</li>
     <li>Hache (2 dégâts, allonge, sanglant)</li>
@@ -126,7 +126,7 @@ description: >-
     <li>Arbalète (2 dégâts, proche, lent)</li>
   </ul>
   
-  <h4>Armes modernes (<em>Choisissez-en une ou deux, cf. ci-dessus</em>) :</h4>
+  <h4>Armes modernes <em>(choisissez-en une ou deux, cf. ci-dessus)</em> :</h4>
   <ul>
     <li>Revolver, calibre .38 (2 dégâts, proche, rechargement, bruyant)</li>
     <li>9 mm (2 dégâts, proche, bruyant)</li>

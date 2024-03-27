@@ -51,7 +51,7 @@ description: >-
   
     <p><em>Choisissez deux marqueurs de ressources et deux marqueurs administratifs :</em></p>
   
-    <h4>Ressources (<em>Choisissez-en deux</em>) :</h4>
+    <h4>Ressources <em>(choisissez-en deux)</em> :</h4>
   
   <ul>
     <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.Btmuqn1qun9DUDzX]</li>
@@ -65,7 +65,7 @@ description: >-
     <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.dGeoPFIRKIYL6Jaa]</li>
   </ul>
   
-  <h4>Administration (<em>Choisissez-en deux</em>) :</h4>
+  <h4>Administration <em>(choisissez-en deux)</em> :</h4>
   
   <ul>
     <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.u40KYgY4FuRj8xh8]</li>
@@ -108,7 +108,7 @@ description: >-
   
   <p>Vous recevez un gilet pare-balles (armure 1, caché) <em>ou</em> une armure de combat (armure 2, lourd)</p>
   
-  <h4>Armes lourdes (<em>Choisissez-en une</em>) :</h4>
+  <h4>Armes lourdes <em>(choisissez-en une)</em> :</h4>
   
   <ul>
     <li>Fusil d’assaut (3 dégâts, loin, zone, bruyant, rechargement)</li>
@@ -118,7 +118,7 @@ description: >-
     <li>Mitraillette (3 dégâts, proche, zone, bruyant, rechargement)</li>
   </ul>
   
-  <h4>Armes normales (<em>Choisissez-en deux</em>) :</h4>
+  <h4>Armes normales <em>(choisissez-en deux)</em> :</h4>
   
   <ul>
     <li>Revolver, calibre .38 (2 dégâts, proche, rechargement, bruyant)</li>

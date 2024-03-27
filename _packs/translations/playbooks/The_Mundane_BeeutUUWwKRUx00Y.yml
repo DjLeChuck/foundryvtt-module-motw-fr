@@ -64,7 +64,7 @@ description: >-
   <p>Vous gagnez deux armes ordinaires et un moyen de transport.</p>
   <p><em>Veuillez noter que vous, ou votre gardien, devez les créer manuellement.</em></p>
   
-  <h4>Armes ordinaires (<em>Choisissez-en deux</em>) :</h4>
+  <h4>Armes ordinaires <em>(choisissez-en deux)</em> :</h4>
   <ul>
     <li>Club de golf, batte de baseball, batte de cricket ou crosse de hockey (2 dégâts, allonge, inoffensif,
       sanglant)</li>
@@ -75,7 +75,7 @@ description: >-
     <li>Nunchaku (2 dégâts, allonge, zone)</li>
   </ul>
 
-  <h4>Moyen de transport (<em>Choisissez-en un</em>) :</h4>
+  <h4>Moyen de transport <em>(choisissez-en un)</em> :</h4>
   <ul>
     <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.tEuDgyjHEGb79OVm]</li>
     <li>@UUID[Compendium.motw-for-pbta.the-mundane.Item.VXxCmizw3lhBWA5T]</li>

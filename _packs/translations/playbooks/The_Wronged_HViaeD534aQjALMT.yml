@@ -51,7 +51,7 @@ description: >-
   nom, et ajoutez un ou plusieurs éléments de la catégorie <strong>Pourquoi</strong>. Enfin, ajoutez l’élément de la
   catégorie <strong>La cause</strong> et modifiez le titre pour afficher l’espèce de monstre de votre proie.</p>
 
-  <h4>Qui avez-vous perdu ? (<em>Choisissez-en un ou plus</em>) :</h4>
+  <h4>Qui avez-vous perdu ? <em>(choisissez-en un ou plus)</em> :</h4>
   
   <ul>
     <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.Y8iDhzDIAX6JBSXb]</li>
@@ -61,7 +61,7 @@ description: >-
     <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.PMcqBLM4jyCJs36n]</li>
   </ul>
 
-  <h4>Pourquoi n’avez-vous pas pu les sauver ? (<em>Choisissez-en un ou plus</em>) :</h4>
+  <h4>Pourquoi n’avez-vous pas pu les sauver ? <em>(choisissez-en un ou plus)</em> :</h4>
   
   <p>Vous étiez :</p>
   
@@ -112,7 +112,7 @@ description: >-
   van.</p>
   <p><em>Veuillez noter que vous, ou votre gardien, devez les créer manuellement.</em></p>
   
-  <h4>Armes de prédilection (<em>Choisissez-en une</em>) :</h4>
+  <h4>Armes de prédilection <em>(choisissez-en une)</em> :</h4>
   <ul>
     <li>Fusil à canon scié (3 dégâts, allonge/proche, sanglant, bruyant, rechargement)</li>
     <li>Escopette (3 dégâts, proche, bruyant)</li>
@@ -125,7 +125,7 @@ description: >-
     1 dégât autrement, et autres traits avec l’accord du Gardien.</li>
   </ul>
 
-  <h4>Armes utiles (<em>Choisissez-en une</em>) :</h4>
+  <h4>Armes utiles <em>(choisissez-en une)</em> :</h4>
   <ul>
     <li>Revolver, calibre .38 (2 dégâts, proche, rechargement, bruyant)</li>
     <li>9 mm (2 dégâts, proche, bruyant)</li>

@@ -61,7 +61,7 @@ description: >-
   <p>Vous gagnez une arme normale et deux armes cachées.</p>
   <p><em>Veuillez noter que vous, ou votre gardien, devez les créer manuellement.</em></p>
   
-  <h4>Armes normales (<em>Choisissez-en une</em>) :</h4>
+  <h4>Armes normales <em>(choisissez-en une)</em> :</h4>
   
   <ul>
     <li>Revolver, calibre .38 (2 dégâts, proche, rechargement, bruyant)</li>
@@ -72,7 +72,7 @@ description: >-
     <li>Poignard (1 dégât, allonge)</li>
   </ul>
   
-  <h4>Armes cachées (<em>Choisissez-en deux</em>) :</h4>
+  <h4>Armes cachées <em>(choisissez-en deux)</em> :</h4>
   <ul>
     <li>Couteaux de lancer (1 dégât, proche, multiple)</li>
     <li>Pistolet de poche (2 dégâts, proche, rechargement, bruyant)</li>
