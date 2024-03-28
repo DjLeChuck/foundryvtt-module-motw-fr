@@ -15,7 +15,7 @@ jobs:
           release-version: '1.0.0'
           release-manifest: 'https://github.com/DjLeChuck/foundryvtt-module-motw-fr/issues/releases/download/0.0.1-dev/module.json'
           release-notes: 'https://github.com/DjLeChuck/foundryvtt-module-motw-fr/releases/tag/0.0.1-dev'
-          compatibility-minimum: '11.315'
-          compatibility-verified: '11'
+          compatibility-minimum: '11'
+          compatibility-verified: '11.315'
       - name: Get the response
         run: echo "${{ steps.publish.outputs.response }}"
