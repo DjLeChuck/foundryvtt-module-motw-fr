@@ -1,4 +1,6 @@
 {
+  "name": "motw-fr",
+  "private": true,
   "devDependencies": {
     "yaml": "^2.4.1"
   },
