@@ -67,13 +67,7 @@ jobs:
 
       - name: Publish the package
         id: publish
-        uses: djlechuck/foundryvtt-publish-package-action@0.0.1-dev
+        uses: djlechuck/foundryvtt-publish-package-action@v1
         with:
           token: ${{ secrets.FOUNDRYVTT_RELEASE_TOKEN }}
-          dry-run: 'false'
-          id: 'motw-fr'
-          release-version: ${{ github.ref_name }}
-          release-manifest: 'https://github.com/${{ github.repository }}/issues/releases/download/${{ github.ref_name }}/module.json'
-          release-notes: 'https://github.com/${{ github.repository }}/releases/tag/${{ github.ref_name }}'
-          compatibility-minimum: '11'
-          compatibility-verified: '11'
+          manifest: 'https://github.com/${{ github.repository }}/releases/download/${{ github.ref_name }}/module.json'
