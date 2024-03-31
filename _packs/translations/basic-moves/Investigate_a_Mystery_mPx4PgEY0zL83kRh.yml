@@ -24,8 +24,7 @@ failure: <p><strong>En cas d’échec</strong>, vous révélez des informations 
   monstre ou à l’individu auquel vous vous adressez. Le Gardien est en droit de
   vous poser quelques questions auxquelles vous devez répondre.</p>
 choices: >-
-  <p>Un point de réserve permet de poser au Gardien une des questions suivantes
-  :</p>
+  <p>Un point de réserve permet de poser au Gardien une des questions suivantes :</p>
 
   <ul>
     <li><em>Que s’est-il passé ici ?</em></li>
