@@ -2,7 +2,6 @@ original_name: Burn Everything
 original_description: <p>When you <strong>use magic</strong> to inflict harm,
   you can choose to inflict 3-harm area magic obvious or 3-harm ignore-armour
   magic obvious.</p>
-name: Burn Everything
-description: <p>When you <strong>use magic</strong> to inflict harm, you can
-  choose to inflict 3-harm area magic obvious or 3-harm ignore-armour magic
-  obvious.</p>
+name: Tout brûler
+description: <p>Lorsque vous <strong>utilisez la magie</strong> pour infliger des dommages, vous pouvez choisir
+  d’infliger <em>3-dégâts zone magique voyant</em> ou <em>3-dégâts ignore l’armure magique voyant</em>.</p>

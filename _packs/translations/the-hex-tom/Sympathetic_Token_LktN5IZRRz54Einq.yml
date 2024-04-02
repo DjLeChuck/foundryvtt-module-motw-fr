@@ -8,13 +8,11 @@ original_description: >-
 
   <p>If you try to <strong>use magic</strong> against them and miss, the token
   is lost, destroyed, or loses its power.</p>
-name: Sympathetic Token
+name: Jeton de sympathie
 description: >-
-  <p>As long as you carry a personal object belonging to someone, such as a lock
-  of hair, a full set of toenails, or a treasured family heirloom, you get +1
-  ongoing to <strong>use magic</strong> against them.</p>
-
-  <p>You can also <strong>use magic</strong> against them at a distance.</p>
-
-  <p>If you try to <strong>use magic</strong> against them and miss, the token
-  is lost, destroyed, or loses its power.</p>
+  <p>Tant que vous portez un objet personnel appartenant à quelqu’un, tel qu’une mèche de cheveux, un ensemble complet
+  d’ongles d’orteils, ou un précieux héritage familial, vous bénéficiez d’un +1 continu à <strong>l’utilisation de la
+  magie</strong> contre cette personne.</p>
+  <p>Vous pouvez également <strong>utiliser la magie</strong> contre eux à distance.</p>
+  <p>Si vous essayez d’<strong>utiliser la magie</strong> contre eux et que vous échouez, le jeton est perdu, détruit
+  ou perd sa puissance.</p>

@@ -8,13 +8,15 @@ original_partial: <p><strong>On a 7-9</strong>, it ends with you doing something
   dangerous or cruel.</p>
 original_failure: <p><strong>On a miss</strong>, it ends only after you harm
   someone (or something) you love.</p>
-name: "Apotheosis: Resist Temptation"
-description: <p>On the other hand, you outright cannot use the <strong>protect
-  someone</strong> move, you have all the Temptations, and you have to indulge
-  them whenever a good opportunity presents itself. When you try to resist a
-  temptation, roll +Cool.</p>
-success: <p><strong>Sur un 10+</strong>, your apotheosis ends.&nbsp;</p>
-partial: <p><strong>Sur un 7-9</strong>, it ends with you doing something
-  dangerous or cruel.</p>
-failure: <p><strong>En cas d’échec</strong>, it ends only after you harm someone
-  (or something) you love.</p>
+name: "Apothéose : Résister à la tentation"
+description: >-
+  <p>D’autre part, vous ne pouvez pas utiliser la manœuvre <strong>protéger quelqu’un</strong>, vous avez toutes les
+  tentations, et vous devez les satisfaire dès qu’une bonne occasion se présente. Lorsque vous essayez de résister à
+  une tentation, lancez les dés +Cool.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, votre apothéose prend fin.</p>
+partial: >-
+  <p><strong>Sur un 7-9</strong>, elle se termine par vous faisant quelque chose de dangereux ou de cruel.</p>
+failure: >-
+  <p><strong>En cas d’échec</strong>, elle ne prend fin que lorsque vous avez fait du mal à quelqu’un (ou quelque
+  chose) que vous aimez.</p>

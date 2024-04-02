@@ -10,15 +10,16 @@ original_success: <p><strong>On a 10</strong>+, you can also spend Luck to
   instantly snuff out a powerful spell or strange effect.</p>
 original_partial: <p><strong>On a 7-9</strong>, you take 1-harm as the strain of
   dismissing magic unravels you.</p>
-name: Force of Will
+name: Force de volonté
 description: >-
-  <p>When you apply your will to <strong>dispelling</strong> a magical effect,
-  <strong>blocking </strong>a spell, or <strong>suspending </strong>a
-  Phenomenon, roll +Weird.</p>
+  <p>Lorsque vous appliquez votre volonté pour <strong>disperser</strong> un effet magique, <strong>bloquer</strong> un
+  sort, ou <strong>suspendre</strong> un phénomène, lancez +Bizarre.</p>
 
-  <p>On a hit, momentary magics are cancelled completely, and long-lasting
-  spells and effects are suspended temporarily.&nbsp;</p>
-success: <p><strong>On a 10</strong>+, you can also spend Luck to instantly
-  snuff out a powerful spell or strange effect.</p>
-partial: <p><strong>Sur un 7-9</strong>, you take 1-harm as the strain of
-  dismissing magic unravels you.</p>
+  <p>En cas de réussite, les magies temporaires sont complètement annulées, et les sorts et effets de longue durée sont
+  temporairement suspendus.</p>
+success: >-
+  <p><strong>Sur un 10+</strong>, vous pouvez également dépenser de la chance pour annuler instantanément un sort
+  puissant ou un effet étrange.</p>
+partial: >-
+  <p><strong>Sur un 7-9</strong>, vous subissez 1 dégât alors que l’effort de dissiper la magie vous fait perdre vos
+  moyens.</p>
