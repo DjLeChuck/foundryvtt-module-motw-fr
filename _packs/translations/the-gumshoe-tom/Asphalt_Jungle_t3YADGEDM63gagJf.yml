@@ -6,11 +6,9 @@ original_description: >-
   <p>You are <strong>immune </strong>to all the harm move effects under
   &lsquo;0-harm&rsquo; and &lsquo;1-harm&rsquo; (when the Keeper would apply
   these, you ignore it).</p>
-name: Asphalt Jungle
+name: Jungle d’asphalte
 description: >-
-  <p>You <strong>heal faster </strong>than normal people. Any time your harm
-  gets healed, heal an extra point.</p>
-
-  <p>You are <strong>immune </strong>to all the harm move effects under
-  &lsquo;0-harm&rsquo; and &lsquo;1-harm&rsquo; (when the Keeper would apply
-  these, you ignore it).</p>
+  <p>Vous <strong>guérissez plus rapidement</strong> que les personnes normales. Chaque fois que vos blessures se
+  soignent, guérissez d’un point supplémentaire.</p>
+  <p>Vous êtes <strong>immunisé</strong> à tous les effets de mouvement de blessure sous « 0-dégât » et « 1-dégât »
+  (lorsque le Gardien appliquerait ces effets, vous les ignorez).</p>

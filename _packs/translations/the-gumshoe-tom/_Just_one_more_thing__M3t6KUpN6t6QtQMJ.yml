@@ -22,27 +22,19 @@ original_choices: >-
   <li>Did you commit this specific crime?</li>
 
   </ul>
-name: '"Just one more thing"'
-description: <p>When you <strong>ask</strong> a suspect <strong>leading
-  questions</strong>, roll +Charm.</p>
-success: <p><strong>Sur un 10+</strong>, hold 2</p>
-partial: <p><strong>Sur un 7-9</strong>, hold 1</p>
-failure: <p><strong>En cas d’échec</strong>,hold 1 but something bad is going to
-  happen too.</p>
+name: '« Juste une dernière chose »'
+description: >-
+  <p>Lorsque vous <strong>posez des questions suggestives</strong> à un suspect, lancez +Charm.</p>
+success: <p><strong>Sur un 10+</strong>, réserve 2.</p>
+partial: <p><strong>Sur un 7-9</strong>, réserve 1.</p>
+failure: <p><strong>En cas d’échec</strong>, réserve 1, mais il va aussi se passer quelque chose de grave.</p>
 choices: >-
-  <p>Spend your hold to ask questions from this list:</p>
+  <p>Dépensez votre réserve pour poser des questions à partir de cette liste :</p>
 
   <ul>
-
-  <li>One question from the investigate a mystery list.</li>
-
-  <li>Was that a lie?</li>
-
-  <li>What is something you left out that you didn&rsquo;t want me to
-  notice?</li>
-
-  <li>Are you complicit with any ongoing criminal activity?</li>
-
-  <li>Did you commit this specific crime?</li>
-
+    <li>Une question de la manœuvre enquêter sur un mystère.</li>
+    <li>Était-ce un mensonge ?</li>
+    <li>Qu’avez-vous omis et que vous ne vouliez pas que je remarque ?</li>
+    <li>Êtes-vous complice d’une activité criminelle en cours ?</li>
+    <li>Avez-vous commis ce crime spécifique ?</li>
   </ul>

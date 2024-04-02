@@ -11,16 +11,16 @@ original_choices: |-
   <li>... can leave misinformation in place.</li>
   <li>... gain access to somewhere you want to get in to.</li>
   </ul>
-name: Hacker with a Dragon Tattoo
-description: <p>When you <strong>hack </strong>into a computer system, roll
-  +Sharp.&nbsp;</p>
-success: <p><strong>On 10+</strong> pick two</p>
-partial: <p><strong>Sur un 7-9</strong>, pick one</p>
+name: Hacker au tatouage de dragon
+description: <p>Lorsque vous <strong>piratez</strong> un système informatique, lancez +Futé.</p>
+success: <p><strong>Sur un 10+</strong>, choisissez-en deux</p>
+partial: <p><strong>Sur un 7-9</strong>, choisissez-en un</p>
 choices: |-
-  <p>You:</p>
+  <p>Vous :</p>
+  
   <ul>
-  <li>... leave no traces.</li>
-  <li>... learn something important.</li>
-  <li>... can leave misinformation in place.</li>
-  <li>... gain access to somewhere you want to get in to.</li>
+    <li>... ne laisser aucune trace.</li>
+    <li>... apprendrez quelque chose d’important.</li>
+    <li>... pouvez laisser de la désinformation en place.</li>
+    <li>... obtenez l’accès à un endroit où vous voulez entrer.</li>
   </ul>

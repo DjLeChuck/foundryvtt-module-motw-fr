@@ -15,20 +15,17 @@ original_choices: <p>Academics, Accountants, Artists, Bartenders, Clergy,
   Practioners, Military, Morgue, Occult, Police (local), Police (national),
   Politicians, Prisons, Private Security, Property Developers, Stage Magicians,
   Technologists, Transportation</p>
-name: The Naked City
+name: La ville sans secret
 description: >-
-  <p>You have lots of <strong>personal contacts</strong> wherever you go. Pick
-  four contact types from the below areas (or from other areas agreed to between
-  you and the Keeper).</p>
+  <p>Vous avez de nombreux <strong>contacts personnels</strong> où que vous alliez. Choisissez quatre types de contacts
+  parmi les domaines ci-dessous (ou parmi d’autres domaines convenus entre vous et le Gardien).</p>
 
-  <p>You can hit them up for info (+1 to one investigate a mystery roll) or
-  small favours&mdash;but there may be a small cost involved. Personal contacts
-  can provide more significant help but the Keeper decides their price on a
-  case-by-case basis.</p>
-choices: <p>Academics, Accountants, Artists, Bartenders, Clergy, Conspiracy
-  Theorists, Construction, Courts, Criminals (organised), Criminals (street),
-  Cultists, Engineers, Espionage, Film and TV, Forensic Scientists, Fringe
-  Scientists, Hackers, Journalists, Lawyers, Mechanics, Media, Medical
-  Practioners, Military, Morgue, Occult, Police (local), Police (national),
-  Politicians, Prisons, Private Security, Property Developers, Stage Magicians,
-  Technologists, Transportation</p>
+  <p>Vous pouvez les solliciter pour obtenir des informations (+1 à un jet d’enquêter sur un mystère) ou de petits
+  services, mais il peut y avoir un coût minime. Les contacts personnels peuvent fournir une aide plus significative,
+  mais le Gardien décide de leur prix au cas par cas.</p>
+choices: >-
+  <p>Académiques, Comptables, Artistes, Barmans, Clergé, Théoriciens du complot, Construction, Tribunaux, Criminels
+  (organisés), Criminels (de rue), Sectes, Ingénieurs, Espionnage, Cinéma et Télévision, Experts en sciences légales,
+  Scientifiques marginaux, Hackers, Journalistes, Avocats, Mécaniciens, Médias, Praticiens médicaux, Militaires,
+  Morgue, Occulte, Police (locale), Police (nationale), Politiciens, Prisons, Sécurité privée, Promoteurs immobiliers,
+  Magiciens de scène, Technologistes, Transport</p>
