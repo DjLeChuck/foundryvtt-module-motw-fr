@@ -10,13 +10,13 @@ original_failure: <p><strong>On a miss</strong>, it ends only after you harm
   someone (or something) you love.</p>
 name: "Apothéose : Résister à la tentation"
 description: >-
-  <p>D’autre part, vous ne pouvez pas utiliser la manœuvre <strong>protéger quelqu’un</strong>, vous avez toutes les
-  tentations, et vous devez les satisfaire dès qu’une bonne occasion se présente. Lorsque vous essayez de résister à
-  une tentation, lancez les dés +Cool.</p>
+  <p>En revanche, vous ne pouvez pas utiliser la manœuvre <strong>protéger quelqu’un</strong>, vous avez toutes les
+  tentations, et vous devez vous y adonner chaque fois qu’une bonne occasion se présente. Lorsque vous essayez de
+  résister à une tentation, lancez +Cool.</p>
 success: >-
   <p><strong>Sur un 10+</strong>, votre apothéose prend fin.</p>
 partial: >-
-  <p><strong>Sur un 7-9</strong>, elle se termine par vous faisant quelque chose de dangereux ou de cruel.</p>
+  <p><strong>Sur un 7-9</strong>, l’apothéose se termine par une action dangereuse ou cruelle.</p>
 failure: >-
-  <p><strong>En cas d’échec</strong>, elle ne prend fin que lorsque vous avez fait du mal à quelqu’un (ou quelque
+  <p><strong>En cas d’échec</strong>, l’apothéose ne prend fin qu’après que vous ayez blessé quelqu’un (ou quelque
   chose) que vous aimez.</p>

@@ -30,11 +30,11 @@ original_choices: >-
   </ul>
 name: Sort de base [ ]
 description: >-
-  <p> Chaque fois que vous <strong>utilisez la magie</strong>, vous pouvez décider par la suite qu’un sort particulier
-  est un sort de base que vous connaissez. Notez en détail ce que le sort fait et ce dont il a besoin. Vous savez
-  comment le lancer de mémoire, et vous choisissez deux pré-requis dans la liste ci-dessous.</p>
+  <p>Chaque fois que vous <strong>utilisez la magie</strong>, vous pouvez décider par la suite qu’un sort particulier
+  est une formule que vous connaissez par cœur. Notez en détail ce que fait le sort et ce qu’il exige. Vous savez
+  comment le lancer de tête, et vous choisissez deux pré-requis dans la liste ci-dessous.</p>
 
-  <p>Donnez un nom à votre nouveau sort de base et décidez spécifiquement quels sont ses pré-requis.</p>
+  <p>Donnez un nom à votre nouveau sort de base et définissez précisément ses exigences.</p>
 
    <p><em>Remplacez cette description par la description de votre sort de base. Cette manœuvre peut être utilisée
   plusieurs fois, à mesure que vous acquérez de nouveaux sorts de base.</em></p>

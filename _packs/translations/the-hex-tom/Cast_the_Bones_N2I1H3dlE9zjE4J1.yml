@@ -23,9 +23,9 @@ original_choices: >-
   find out more.</p>
 name: Lancer les ossements
 description: >-
-  <p>Une fois par mystère, vous pouvez <strong>effectuer</strong> une sorte de <strong>divination</strong> (tarot,
-  lancer les runes, lire les entrailles, ou quelque chose de similaire) pour obtenir des informations sur l’avenir.
-  Lorsque vous cherchez des conseils par divination, lancez +Futé.</p>
+  <p>Une fois par mystère, vous pouvez <strong>pratiquer</strong> une forme de <strong>divination</strong> (tarot,
+  runes, lecture des entrailles, etc.) pour glaner des informations sur l’avenir. Lorsque vous cherchez à être guidé
+  par la divination, lancez +Futé.</p>
 success: <p><strong>Sur un 10+</strong>, réserve 2.</p>
 partial: <p><strong>Sur un 7-9</strong>, réserve 1.</p>
 failure: >-
@@ -40,4 +40,4 @@ choices: >-
     <li>Qui a touché cette personne / endroit / objet / créature avant moi ?</li>
   </ul>
 
-  <p>Le Gardien répondra sincèrement, soit avec une réponse directe soit en indiquant comment en savoir plus.</p>
+  <p>Le Gardien répondra sincèrement, soit avec une réponse directe, soit en indiquant comment en savoir plus.</p>

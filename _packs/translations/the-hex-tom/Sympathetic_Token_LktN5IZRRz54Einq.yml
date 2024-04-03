@@ -10,9 +10,11 @@ original_description: >-
   is lost, destroyed, or loses its power.</p>
 name: Jeton de sympathie
 description: >-
-  <p>Tant que vous portez un objet personnel appartenant à quelqu’un, tel qu’une mèche de cheveux, un ensemble complet
-  d’ongles d’orteils, ou un précieux héritage familial, vous bénéficiez d’un +1 continu à <strong>l’utilisation de la
-  magie</strong> contre cette personne.</p>
-  <p>Vous pouvez également <strong>utiliser la magie</strong> contre eux à distance.</p>
-  <p>Si vous essayez d’<strong>utiliser la magie</strong> contre eux et que vous échouez, le jeton est perdu, détruit
-  ou perd sa puissance.</p>
+  <p>Tant que vous portez un objet personnel appartenant à quelqu’un, comme une mèche de cheveux, une paire d’ongles
+  d’orteils complète ou un héritage familial précieux, vous bénéficiez d’un +1 continu pour <strong>utiliser la
+  magie</strong> contre lui.</p>
+  
+  <p>Vous pouvez également <strong>utiliser la magie</strong> contre lui à distance.</p>
+  
+  <p>Si vous essayez d’<strong>utiliser la magie</strong> contre lui et que vous échouez, le jeton est perdu, détruit
+  ou perd son pouvoir.</p>

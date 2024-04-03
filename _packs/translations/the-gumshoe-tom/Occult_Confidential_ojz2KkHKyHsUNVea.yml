@@ -14,8 +14,8 @@ original_choices: |-
   </ul>
 name: Confidentialité occulte
 description: >-
-  <p>La <strong>première fois</strong> dans chaque mystère où vous observez un monstre, un sbire ou un phénomène en
-  action, vous pouvez poser une question de la manœuvre enquêter sur un mystère.</p>
+  <p>La <strong>première fois</strong> que vous observez un monstre, un serviteur ou un phénomène en action dans un
+  mystère, vous pouvez poser une question de la manœuvre enquêter sur un mystère.</p>
 choices: |-
   <ul>
     <li><em>Que s’est-il passé ici ?</em></li>

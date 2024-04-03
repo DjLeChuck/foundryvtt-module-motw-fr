@@ -12,10 +12,10 @@ original_partial: <p><strong>On a 7-9</strong>, you take 1-harm as the strain of
   dismissing magic unravels you.</p>
 name: Force de volonté
 description: >-
-  <p>Lorsque vous appliquez votre volonté pour <strong>disperser</strong> un effet magique, <strong>bloquer</strong> un
-  sort, ou <strong>suspendre</strong> un phénomène, lancez +Bizarre.</p>
+  <p>Lorsque vous utilisez votre volonté pour <strong>dissiper</strong> un effet magique, <strong>bloquer</strong> un
+  sort ou <strong>suspendre</strong> un phénomène, lancez +Bizarre.</p>
 
-  <p>En cas de réussite, les magies temporaires sont complètement annulées, et les sorts et effets de longue durée sont
+  <p>En cas de succès, les magies momentanées sont complètement annulées, et les sorts et effets de longue durée sont
   temporairement suspendus.</p>
 success: >-
   <p><strong>Sur un 10+</strong>, vous pouvez également dépenser de la chance pour annuler instantanément un sort

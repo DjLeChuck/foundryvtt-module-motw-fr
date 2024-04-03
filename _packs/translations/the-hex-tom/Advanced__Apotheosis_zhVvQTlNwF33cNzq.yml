@@ -18,14 +18,14 @@ original_description: >-
 name: "Avancé : Apothéose"
 description: >-
   <p>Vous devenez une source terrifiante de pouvoir mystique. Une fois par mystère, après avoir subi une perte ou des
-  dommages, vous pouvez entrer dans un état où vous avez à la fois un pouvoir immense et aucun intérêt pour le
-  bien-être des autres personnes. En étant dans cet état, vous pouvez voler, utiliser +Bizarre pour <strong>casser la
-  gueule</strong> plutôt que +Coriace (en utilisant la magie innée comme une arme 3-dégâts avec les propriétés de votre
-  choix), ignorer les coûts des composants de vos sorts, ignorer une exigence de chaque sort que vous lancez avec
-  <strong>utiliser la magie</strong>, et vous avez +1 en cours pour tout faire.</p>
+  dommages, vous pouvez entrer dans un état où vous avez à la fois un pouvoir immense et aucun intérêt pour le bien-être
+  des autres. Dans cet état, vous pouvez voler, utiliser +Bizarre pour <strong>casser la gueule</strong> au lieu de
+  +Coriace (en utilisant la magie innée comme une arme 3-dégâts avec les propriétés de votre choix), ignorer les coûts
+  des composants de vos sorts de base, ignorer une condition de chaque sort que vous lancez avec <strong>utiliser la
+  magie</strong>, et vous avez +1 en cours pour tout faire.</p>
 
-  <p>D’autre part, vous ne pouvez pas utiliser la manœuvre <strong>protéger quelqu’un</strong>, vous avez toutes les
-  tentations, et vous devez les satisfaire dès qu’une bonne occasion se présente. Lorsque vous essayez de résister à
-  une tentation, lancez les dés +Cool. Sur un 10+, votre apothéose prend fin. Sur un 7-9, elle se termine par vous
-  faisant quelque chose de dangereux ou de cruel. En cas d’échec, elle ne prend fin que lorsque vous avez fait du mal
-  à quelqu’un (ou quelque chose) que vous aimez.</p>
+  <p>En revanche, vous ne pouvez pas utiliser la manœuvre <strong>protéger quelqu’un</strong>, vous avez toutes les
+  tentations, et vous devez vous y adonner chaque fois qu’une bonne occasion se présente. Lorsque vous essayez de
+  résister à une tentation, lancez +Cool. Sur un 10+, votre apothéose prend fin. Sur un 7-9, l’apothéose se termine par
+  une action dangereuse ou cruelle. Sur un échec, l’apothéose ne prend fin qu’après que vous ayez blessé quelqu’un
+  (ou quelque chose) que vous aimez.</p>

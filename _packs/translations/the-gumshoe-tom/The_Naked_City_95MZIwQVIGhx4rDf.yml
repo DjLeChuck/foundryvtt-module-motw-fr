@@ -17,12 +17,12 @@ original_choices: <p>Academics, Accountants, Artists, Bartenders, Clergy,
   Technologists, Transportation</p>
 name: La ville sans secret
 description: >-
-  <p>Vous avez de nombreux <strong>contacts personnels</strong> où que vous alliez. Choisissez quatre types de contacts
-  parmi les domaines ci-dessous (ou parmi d’autres domaines convenus entre vous et le Gardien).</p>
+  <p>Vous avez de nombreux <strong>contacts personnels</strong> partout où vous allez. Choisissez quatre types de
+  contacts dans les domaines ci-dessous (ou dans d’autres domaines convenus entre vous et le Gardien).</p>
 
-  <p>Vous pouvez les solliciter pour obtenir des informations (+1 à un jet d’enquêter sur un mystère) ou de petits
-  services, mais il peut y avoir un coût minime. Les contacts personnels peuvent fournir une aide plus significative,
-  mais le Gardien décide de leur prix au cas par cas.</p>
+  <p>Vous pouvez leur demander des informations (+1 à un jet d’enquêter sur un mystère) ou de petites faveurs, mais cela
+  peut avoir un coût. Les contacts personnels peuvent apporter une aide plus importante, mais le Gardien décide de leur
+  prix au cas par cas.</p>
 choices: >-
   <p>Académiques, Comptables, Artistes, Barmans, Clergé, Théoriciens du complot, Construction, Tribunaux, Criminels
   (organisés), Criminels (de rue), Sectes, Ingénieurs, Espionnage, Cinéma et Télévision, Experts en sciences légales,
