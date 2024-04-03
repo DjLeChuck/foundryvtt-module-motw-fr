@@ -3,8 +3,8 @@ original_description: <p>When you encounter a creature or phenomenon, you may
   declare that you have seen it before. The Keeper may ask you some questions
   about that encounter, and will then tell you one useful fact you learned and
   one danger you need to watch out for (maybe right now).</p>
-name: The Things I've Seen
-description: <p>When you encounter a creature or phenomenon, you may declare
-  that you have seen it before. The Keeper may ask you some questions about that
-  encounter, and will then tell you one useful fact you learned and one danger
-  you need to watch out for (maybe right now).</p>
+name: Les choses que j’ai vues
+description: >-
+  <p>Lorsque vous rencontrez une créature ou un phénomène, vous pouvez déclarer que vous l’avez déjà vu. Le Gardien
+  peut vous poser des questions sur cette rencontre, puis vous indiquer un fait utile que vous avez appris et un danger
+  dont vous devez vous méfier (peut-être dès maintenant).</p>
