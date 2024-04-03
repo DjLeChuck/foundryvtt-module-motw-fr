@@ -16,21 +16,16 @@ original_choices: >-
   <li>What would distract it?</li>
 
   </ul>
-name: Monster Empathy
-description: <p>When you try to <strong>work out what a supernatural creature
-  desires</strong>, roll +Charm.</p>
-success: <p><strong>Sur un 10+</strong>, hold 2.&nbsp;</p>
-partial: <p><strong>Sur un 7-9</strong>, hold 1.</p>
+name: Empathie envers les monstres
+description: >-
+  <p>Lorsque vous essayez de <strong>déterminer les désirs d’une créature surnaturelle</strong>, lancez +Charme.</p>
+success: <p><strong>Sur un 10+</strong>, réserve 2.</p>
+partial: <p><strong>Sur un 7-9</strong>, réserve 1.</p>
 choices: >-
-  <p>Spend your hold to ask the following questions - the Keeper will answer
-  honestly:</p>
+  <p>Dépensez votre réserve pour poser les questions suivantes - le Gardien y répondra honnêtement :</p>
 
   <ul>
-
-  <li>What does it most desire?</li>
-
-  <li>What would it accept as good enough for now?</li>
-
-  <li>What would distract it?</li>
-
+    <li>Que désire-t-il le plus ?</li>
+    <li>Qu’accepterait-il comme suffisant pour l’instant ?</li>
+    <li>Qu’est-ce qui pourrait le distraire ?</li>
   </ul>
