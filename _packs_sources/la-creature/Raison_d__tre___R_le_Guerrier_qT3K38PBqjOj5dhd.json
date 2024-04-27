@@ -1,11 +1,11 @@
 {
-  "folder": "SGjYYg1YuzXn1MEs",
-  "name": "Force d’animation : Autre",
+  "folder": "bdioanW0cOodHTnk",
+  "name": "Raison d’être : Rôle Guerrier",
   "type": "move",
-  "_id": "wGb9MvSnOntktdUc",
+  "_id": "qT3K38PBqjOj5dhd",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Éditez l’objet et précisez quelle énergie vous anime.</p>",
+    "description": "<p>Vos attaques infligent +1 dégât.</p>",
     "moveType": "",
     "rollFormula": "",
     "moveResults": {
@@ -43,9 +43,9 @@
     "systemId": "pbta",
     "systemVersion": "0.9.5",
     "coreVersion": "11.315",
-    "createdTime": 1714200014898,
-    "modifiedTime": 1714211209271,
+    "createdTime": 1714211313802,
+    "modifiedTime": 1714211361922,
     "lastModifiedBy": "0dK6MKxP8fODq3fg"
   },
-  "_key": "!items!wGb9MvSnOntktdUc"
+  "_key": "!items!qT3K38PBqjOj5dhd"
 }
