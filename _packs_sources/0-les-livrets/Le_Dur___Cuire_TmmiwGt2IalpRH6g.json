@@ -1,0 +1,28 @@
+{
+  "name": "Le Dur à Cuire",
+  "type": "playbook",
+  "_id": "TmmiwGt2IalpRH6g",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "",
+    "slug": "le-dur-a-cuire",
+    "actorType": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "0dK6MKxP8fODq3fg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.5",
+    "coreVersion": "11.315",
+    "createdTime": 1714206783493,
+    "modifiedTime": 1714206783493,
+    "lastModifiedBy": "0dK6MKxP8fODq3fg"
+  },
+  "_key": "!items!TmmiwGt2IalpRH6g"
+}
