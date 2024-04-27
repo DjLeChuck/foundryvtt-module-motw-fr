@@ -1,4 +1,4 @@
-.PHONY: workon clear unpack_base_module unpack pack extract generate
+.PHONY: workon clear unpack_base_module unpack pack
 
 include .env
 export
@@ -18,14 +18,6 @@ unpack_base_module:
 		fvtt package unpack --yaml --in $$PACK_DIRS --out _packs/extractions/$$dir $$dir >/dev/null; \
 	done
 	@make -s clear
-
-extract:
-	@echo "Extraction des fichiers au format YAML..."
-	@node _scripts/extract-pack.mjs
-
-generate:
-	@echo "Génération des fichiers JSON..."
-	@node _scripts/generate-files.mjs
 
 unpack:
 	@make -s workon
