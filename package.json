@@ -1,10 +1,14 @@
 {
   "name": "motw-fr",
+  "author": "DjLeChuck",
+  "license": "MIT",
   "private": true,
   "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.0-rc.4",
     "yaml": "^2.4.1"
   },
   "volta": {
-    "node": "20.11.1"
+    "node": "20.11.1",
+    "yarn": "3.8.1"
   }
 }
