@@ -23,11 +23,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Npm install
-        run: npm install
+      - name: Yarn install
+        run: yarn install
 
       - name: Generate translations
         run: node _scripts/generate-files.mjs
+
+      - name: Pack compendiums
+        run: yarn run pack-packs
 
       - name: Modify module manifest with release-specific values
         id: sub_manifest_link_version
@@ -50,7 +53,8 @@ jobs:
             README.md                            \
             CHANGELOG.md                         \
             LICENSE                              \
-            compendium/
+            compendium/                          \
+            packs/
 
       - name: Update Release With Files
         id: create_version_release
