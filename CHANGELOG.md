@@ -2,9 +2,14 @@
 
 ## [Unreleased]
 
+### Fixed
+
+- [Livret - Le Professionnel] Manœuvre « On ne laisse personne derrière » affichée en double
+- [Livret - Le Professionnel] La ressource « Bons services de reseignement » n’est pas listée
+
 ## [11.0.0] - 2024-04-27
 
-- Initial release of the module! 🚀
+- Version initiale du module ! 🚀
 
 [Unreleased]: https://github.com/DjLeChuck/foundryvtt-module-motw-fr/compare/11.0.0...main
 
