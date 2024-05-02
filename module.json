@@ -44,6 +44,12 @@
       "system": "pbta"
     },
     {
+      "name": "armes",
+      "label": "Armes",
+      "type": "Item",
+      "system": "pbta"
+    },
+    {
       "name": "la-creature",
       "label": "La Créature",
       "type": "Item",

@@ -2,7 +2,11 @@
 
 ## [Unreleased]
 
-### Fixed
+### Ajouté
+
+- Compendium des armes par livret
+
+### Corrigé
 
 - [Livret - Le Professionnel] Manœuvre « On ne laisse personne derrière » affichée en double
 - [Livret - Le Professionnel] La ressource « Bons services de reseignement » n’est pas listée
