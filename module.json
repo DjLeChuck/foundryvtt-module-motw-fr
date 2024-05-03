@@ -21,9 +21,8 @@
   ],
   "packFolders": [
     {
-      "name": "Livrets originaux - FR",
+      "name": "Livrets - Originaux FR",
       "packs": [
-        "0-les-livrets",
         "la-creature",
         "le-dur-a-cuire",
         "lexile",
@@ -39,7 +38,7 @@
   "packs": [
     {
       "name": "0-les-livrets",
-      "label": "0. Les livrets",
+      "label": "Livrets - Originaux FR",
       "type": "Item",
       "system": "pbta"
     },

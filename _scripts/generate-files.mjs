@@ -74,7 +74,7 @@ const outputDir = 'compendium/fr';
 const compendiumLabels = {
   'basic-moves': 'Manœuvres basiques',
   'other-moves': 'Autres manœuvres',
-  'playbooks': 'Les Livrets',
+  'playbooks': 'Livrets - Module de base',
   'special-moves-tom': 'Manœuvres spéciales [ToM]',
   'tags': 'Traits',
   'the-chosen': 'L’Élu',

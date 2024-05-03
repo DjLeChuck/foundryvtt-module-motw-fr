@@ -6,6 +6,7 @@
 
 - Compendium des armes par livret
 - Lien vers les armes sur tous les livrets traduits et originaux
+- Option (active par défaut) permetant de ranger les compendiums dans des dossiers
 
 ### Corrigé
 
