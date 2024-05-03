@@ -12,7 +12,7 @@
     "weight": 0,
     "tags": "[{\"value\":\"4 dégâts\"},{\"value\":\"proche\"},{\"value\":\"zone\"},{\"value\":\"sanglant\"},{\"value\":\"bruyant\"}]",
     "itemType": "",
-    "equipmentType": "",
+    "equipmentType": "weapon",
     "actorType": ""
   },
   "effects": [],
@@ -27,7 +27,7 @@
     "systemVersion": "0.9.6",
     "coreVersion": "11.315",
     "createdTime": 1714633596325,
-    "modifiedTime": 1714633733320,
+    "modifiedTime": 1714753498076,
     "lastModifiedBy": "0dK6MKxP8fODq3fg"
   },
   "_key": "!items!Wze2ogodUjYCENf5"

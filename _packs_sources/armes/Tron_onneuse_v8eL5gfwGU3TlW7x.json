@@ -12,7 +12,7 @@
     "weight": 0,
     "tags": "[{\"value\":\"3 dégâts\"},{\"value\":\"allonge\"},{\"value\":\"sanglant\"},{\"value\":\"peu fiable\"},{\"value\":\"bruyant\"},{\"value\":\"lourd\"}]",
     "itemType": "",
-    "equipmentType": "",
+    "equipmentType": "weapon",
     "actorType": ""
   },
   "effects": [],
@@ -27,7 +27,7 @@
     "systemVersion": "0.9.6",
     "coreVersion": "11.315",
     "createdTime": 1714634283562,
-    "modifiedTime": 1714634561976,
+    "modifiedTime": 1714753498077,
     "lastModifiedBy": "0dK6MKxP8fODq3fg"
   },
   "_key": "!items!v8eL5gfwGU3TlW7x"

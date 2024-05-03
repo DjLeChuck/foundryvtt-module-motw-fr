@@ -329,17 +329,22 @@ description: >-
   </ul> </td> <td style="padding: 8px;"> <h3>Équipement</h3>
 
   <p>Vous gagnez deux armes ordinaires et un moyen de transport.</p>
-  <p><em>Veuillez noter que vous, ou votre gardien, devez les créer
-  manuellement.</em></p>
 
-  <h4>Armes ordinaires <em>(choisissez-en deux)</em> :</h4> <ul>
-    <li>Club de golf, batte de baseball, batte de cricket ou crosse de hockey (2 dégâts, allonge, inoffensif,
-      sanglant)</li>
-    <li>Couteau de poche ou couteau suisse (1 dégât, allonge, utile, petit)</li>
-    <li>Arme de poing de petit calibre (2 dégâts, proche, rechargement, bruyant)</li>
-    <li>Fusil de chasse (3 dégâts, loin, bruyant, rechargement)</li>
-    <li>Masse ou hache de pompier (3 dégâts, allonge, sanglant)</li>
-    <li>Nunchaku (2 dégâts, allonge, zone)</li>
+  <h4>Armes ordinaires <em>(choisissez-en deux)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.ES41WafnwAJNwfbf]{Club de golf, batte de baseball, batte de cricket ou
+    crosse de hockey} (2 dégâts, allonge, inoffensif, sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.dIKGra40ADmcTlHE]{Couteau de poche ou couteau suisse} (1 dégât,
+    allonge, utile, petit)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.A7CoUYfI2qtp5apY]{Arme de poing de petit calibre} (2 dégâts,
+    proche, rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.OLCsWjkBrzOrpr3J]{Fusil de chasse} (3 dégâts, loin, bruyant,
+    rechargement)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.LRj3f9ZxXsp9ZJCS]{Masse} (3 dégâts, allonge, sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.kNPVAiAxfO9UEH5D]{Hache de pompier} (3 dégâts, allonge,
+    sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.TXSLSpku9da4IB7s]{Nunchaku} (2 dégâts, allonge, zone)</li>
   </ul>
 
   <h4>Moyen de transport <em>(choisissez-en un)</em> :</h4> <ul>

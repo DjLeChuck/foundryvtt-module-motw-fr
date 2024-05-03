@@ -9,7 +9,7 @@
     "playbook": "",
     "quantity": 1,
     "weight": 0,
-    "tags": "[{\"value\":\"2 dégâts\"},{\"value\":\"proche\"},{\"value\":\"bruyant\"},{\"value\":\"volatil\"},{\"value\":\"lourd\"},{\"value\":\"rechargement\"}]",
+    "tags": "[{\"value\":\"2 dégâts\"},{\"value\":\"proche\"},{\"value\":\"bruyant\"},{\"value\":\"volatil\"},{\"value\":\"lourd\"},{\"value\":\"rechargement\"},{\"value\":\"fume\"}]",
     "itemType": "",
     "equipmentType": "",
     "actorType": ""
@@ -23,7 +23,7 @@
     "systemVersion": "0.9.6",
     "coreVersion": "11.315",
     "createdTime": 1714634253848,
-    "modifiedTime": 1714635837956,
+    "modifiedTime": 1714684599344,
     "lastModifiedBy": "0dK6MKxP8fODq3fg"
   },
   "_id": "dZ8VrwG5IEcukmaK",

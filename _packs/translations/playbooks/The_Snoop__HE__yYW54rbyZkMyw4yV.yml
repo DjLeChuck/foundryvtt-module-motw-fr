@@ -394,7 +394,7 @@ description: >-
   <h3>Équipement</h3>
   <p>Vous obtenez un ordinateur portable, trois appareils d’enregistrement, deux détecteurs et une arme camouflée.</p>
   <p><em>Veuillez noter que vous, ou votre gardien, devez les créer manuellement.</em></p>
-  <h4><strong>Appareils d’enregistrement</strong> (<em>choisissez-en trois</em>) :</h4>
+  <h4>Appareils d’enregistrement (<em>choisissez-en trois</em>) :</h4>
   <ul>
   <li>Caméra numérique</li>
   <li>Petite caméra numérique</li>
@@ -409,7 +409,7 @@ description: >-
   <li>Microphone laser</li>
   <li>Appareil Réflex</li>
   </ul>
-  <h4><strong>Détecteurs</strong> (<em>choisissez-en deux</em>) :</h4>
+  <h4>Détecteurs (<em>choisissez-en deux</em>) :</h4>
   <ul>
   <li>Détecteur de champ électromagnétique</li>
   <li>Détecteur de changement de température</li>
@@ -423,12 +423,15 @@ description: >-
   <li>Télémètre laser</li>
   <li>Pendule</li>
   </ul>
-  <h4><strong>Armes camouflées</strong> (<em>choisissez-en une</em>) :</h4>
+  <h4>Armes camouflées (<em>choisissez-en une</em>) :</h4>
   <ul>
-  <li>Revolver, calibre .32 (2 dégâts, proche, rechargement, petit)</li>
-  <li>9 mm (2 dégâts, proche, bruyant)</li>
-  <li>Couteau (1 dégât, allonge, dissimulé)</li>
-  <li>Couteau suisse (1 dégât, allonge, dissimulé, utile)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.f8OF1gUXxgm1LKGn]{Revolver, calibre .32} (2 dégâts, proche,
+    rechargement, petit)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.0hBIO6UXzvP85Oql]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.xs46IbpWlBgrD9yu]{Couteau} (1 dégât, allonge,
+    dissimulé)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.430cmYF32IKBCm1H]{Couteau suisse} (1 dégât, allonge,
+    dissimulé, utile)</li>
   </ul>
   </td>
   <td style="padding: 8px;">

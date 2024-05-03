@@ -449,31 +449,37 @@ description: >-
     <li>@UUID[Compendium.motw-for-pbta.the-professional.Item.yi92Gmq9Rs13YWA5]</li>
   </ul>
 
-  <h3>Équipement</h3> <p><em>Choisissez une arme lourde et deux armes
-  normales.</em></p> <p><em>Veuillez noter que vous, ou votre gardien, devez les
-  créer manuellement.</em></p>
+  <h3>équipement</h3>
 
-  <p>Vous recevez un gilet pare-balles (armure 1, caché) <em>ou</em> une armure
-  de combat (armure 2, lourd)</p>
+  <p><em>Choisissez une arme lourde et deux armes normales.</em></p>
+
+  <p>Vous recevez un @UUID[Compendium.motw-fr.armes.Item.enLQtzp1bg3rZw43]{Gilet parre-balle} (armure 1, caché)
+  <em>ou</em> une @UUID[Compendium.motw-fr.armes.Item.ARDn9Nrze8bv49T5]{Armure de combat} (armure 2, lourd)</p>
 
   <h4>Armes lourdes <em>(choisissez-en une)</em> :</h4>
 
   <ul>
-    <li>Fusil d’assaut (3 dégâts, loin, zone, bruyant, rechargement)</li>
-    <li>Lance-grenades (4 dégâts, loin, zone, sanglant, bruyant, rechargement)</li>
-    <li>Fusil de sniper (4 dégâts, loin)</li>
-    <li>Grenades (4 dégâts, proche, zone, sanglant, bruyant)</li>
-    <li>Mitraillette (3 dégâts, proche, zone, bruyant, rechargement)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.vXLMBjiSxRmzeqGF]{Fusil d’assaut} (3 dégâts, loin, zone,
+    bruyant, rechargement)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.4qCZXiR1xMn5xd5v]{Lance-grenade} (4 dégâts, loin, zone,
+    sanglant, bruyant, rechargement)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.m6KUcDI7bsToHyM3]{Fusil de sniper} (4 dégâts, loin)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.Wze2ogodUjYCENf5]{Grenades} (4 dégâts, proche, zone, sanglant,
+    bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.TIgDzcwLqzPMpy54]{Mitraillette} (3 dégâts, proche, zone,
+    bruyant, rechargement)</li>
   </ul>
 
   <h4>Armes normales <em>(choisissez-en deux)</em> :</h4>
 
   <ul>
-    <li>Revolver, calibre .38 (2 dégâts, proche, rechargement, bruyant)</li>
-    <li>9 mm (2 dégâts, proche, bruyant)</li>
-    <li>Fusil de chasse (2 dégâts, loin, bruyant)</li>
-    <li>Fusil à pompe (3 dégâts, proche, sanglant)</li>
-    <li>Couteau de chasse (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.LG4nYAeuUvhnRRMr]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.aLJa1zNsNGiNRuEE]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.rxeuNXyvDdEXPfbo]{Fusil de chasse} (2 dégâts, loin, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.56Npqr1lm2o2PMbN]{Fusil à pompe} (3 dégâts, proche,
+    sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.mBs2Fl6mmGlufRjN]{Couteau de chasse} (1 dégât, allonge)</li>
   </ul>
 
   <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le

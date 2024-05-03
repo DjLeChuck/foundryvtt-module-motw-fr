@@ -426,17 +426,25 @@ description: >-
     <li>@UUID[Compendium.motw-for-pbta.the-crooked.Item.vQmCbpM2tnypGwHB]</li>
   </ul>
 
-  <h3>Équipement</h3> <p>Choisissez trois armes :</p> <p><em>Veuillez noter que
-  vous, ou votre gardien, devez les créer manuellement.</em></p> <ul>
-    <li>Revolver, calibre .22 (1 dégât, proche, rechargement, petit)</li>
-    <li>Revolver, calibre .38 (2 dégâts, proche, rechargement, bruyant)</li>
-    <li>9 mm (2 dégâts, proche, bruyant)</li>
-    <li>Fusil à pompe (3 dégâts, proche, sanglant)</li>
-    <li>Fusil de chasse (2 dégâts, loin, bruyant)</li>
-    <li>Couteau de chasse (1 dégât, allonge)</li>
-    <li>Batte de baseball (1 dégât, allonge)</li>
-    <li>Pistolet-mitrailleur (2 dégâts, proche, rechargement, automatique)</li>
-    <li>Fusil d’assaut (3 dégâts, proche/loin, automatique)</li>
+  <h3>équipement</h3>
+
+  <p>Choisissez trois armes :</p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.dXnFNYG470LEdeEe]{Revolver, calibre .22} (1 dégât, proche,
+    rechargement, petit)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.lNnlZfwD0PIOuSJe]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.ehZDOJqWvNdLP8Ff]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.6vB0ZawB30d3xfXh]{Fusil à pompe} (3 dégâts, proche,
+    sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.C3Vl0J1nUXlE2Eh2]{Fusil de chasse} (2 dégâts, loin, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.DZZqxbBIqZdmpb7j]{Couteau de chasse} (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.hCCoxTQtctXQW3BD]{Batte de baseball} (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.yMFqKEk1BGERsAfS]{Pistolet-mitrailleur} (2 dégâts, proche,
+    rechargement, automatique)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.kRUt5eDafWBKGVco]{Fusil d’assaut} (3 dégâts, proche/loin,
+    automatique)</li>
   </ul>
 
   <h3>Chance spéciale</h3> <p>Chaque fois que vous dépensez un point de Chance,

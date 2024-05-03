@@ -473,29 +473,36 @@ description: >-
 
   <p>Vous gagnez aussi une armure archaïque (armure 1, lourd).</p>
 
-  <p><em>Veuillez noter que vous, ou votre gardien, devez les créer
-  manuellement.</em></p>
+  <h4>Armes archaïques <em>(choisissez-en deux ou trois, cf. ci-dessus)</em> :</h4>
 
-  <h4>Armes archaïques <em>(choisissez-en deux ou trois, cf. ci-dessus)</em>
-  :</h4> <ul>
-    <li>Épée (2 dégâts, allonge, sanglant)</li>
-    <li>Hache (2 dégâts, allonge, sanglant)</li>
-    <li>Grande épée (3 dégâts, allonge, sanglant, lourd)</li>
-    <li>Grande hache (3 dégâts, allonge, sanglant, lent, lourd)</li>
-    <li>Couteau en argent (1 dégât, allonge, argent)</li>
-    <li>Bâtons de combat (1 dégât, allonge, rapide)</li>
-    <li>Lance (2 dégâts, allonge/proche)</li>
-    <li>Masse (2 dégâts, allonge, sanglant)</li>
-    <li>Arbalète (2 dégâts, proche, lent)</li>
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.wDndJDMOgiupd2n3]{épée} (2 dégâts, allonge,
+    sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.9mpzvPOXnch0CDTW]{Hache} (2 dégâts, allonge, sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.9YpCb1rCdCw3i0hE]{Grande épée} (3 dégâts,
+    allonge, sanglant, lourd)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.5dvMD5P9CjFVsBXX]{Grande hache} (3 dégâts, allonge, sanglant,
+    lent, lourd)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.HDNDmlcM0NXsjaZ0]{Couteau en argent} (1 dégât, allonge,
+    argent)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.xoNVEZJI3Az03ALT]{Bâton de combat} (1 dégât, allonge,
+    rapide)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.QAN7mbBoRtNWF4Eo]{Lance} (2 dégâts, allonge/proche)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.rZy5S2FoazCauSyn]{Masse} (2 dégâts, allonge, sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.BacJvV5okVH579xr]{Arbalète} (2 dégâts, proche,
+    lent)</li>
   </ul>
 
   <h4>Armes modernes <em>(choisissez-en une ou deux, cf. ci-dessus)</em> :</h4>
   <ul>
-    <li>Revolver, calibre .38 (2 dégâts, proche, rechargement, bruyant)</li>
-    <li>9 mm (2 dégâts, proche, bruyant)</li>
-    <li>Fusil de sniper (3 dégâts, loin)</li>
-    <li>Magnum (3 dégâts, proche, rechargement, bruyant)</li>
-    <li>Fusil à pompe (3 dégâts, proche, sanglant, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.RzIuGlwxHaQGBZFU]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.kyadb4WRL5IHmWSY]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.nxe1pMRwt1kNFMjF]{Fusil de sniper} (3 dégâts, loin)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.HWKnShkGe7Gvhrf4]{Magnum} (3 dégâts, proche, rechargement,
+    bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.UddYVDCuONA13cG9]{Fusil à pompe} (3 dégâts, proche,
+    sanglant, bruyant)</li>
   </ul>
 
   <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le

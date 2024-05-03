@@ -482,34 +482,27 @@ description: >-
     <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.TMmkBQIkpiiYvnW1]</li>
   </ul>
 
-  <h3>Attaques naturelles</h3> <p>Glissez-déposez
-  @UUID[Compendium.motw-for-pbta.the-monstrous.Item.17XFAx7t2gdrCdNE] sur votre
-  feuille de personnage, ouvrez-la, renommez-la si vous le souhaitez, puis
-  ajoutez les trait pour celle de base et les supplémentaires en les faisant
-  glisser vers l’arme.</p>
+  <h3>Attaques naturelles</h3>
 
-  <p><em>Choisissez-en une de base et une supplémentaire, ou deux de
-  base.</em></p>
+  <p>Glissez-déposez une ou deux des attaques de base sur votre feuille de personnage.</p>
+
+  <p>Si vous n’en prenez qu’une seule, ouvrez-la, puis modifiez les étiquettes en fonction du
+  supplément que vous lui choisissez (précisé dans le détail de chaque attaque).</p>
+
+  <p><em>Choisissez-en une de base et une supplémentaire, ou deux de base.</em></p>
 
   <ul>
-    <li>Base : dents <em>(ajoutez : @UUID[Compendium.motw-for-pbta.tags.Item.FVbweTphVIbENn72],
-    @UUID[Compendium.motw-for-pbta.tags.Item.RDfOVDy0r0C4NifL])</em></li>
-    <li>Base : griffes <em>(ajoutez : @UUID[Compendium.motw-for-pbta.tags.Item.qG8S5oSRgQxXS93k],
-    @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS])</em></li>
-    <li>Base : force magique <em>(ajoutez : @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ],
-    @UUID[Compendium.motw-for-pbta.tags.Item.Llh9Q5RvkYKS4Ymu],
-    @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP])</em></li>
-    <li>Base : absorption d’énergie <em>(ajoutez : @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ],
-    @UUID[Compendium.motw-for-pbta.tags.Item.RDfOVDy0r0C4NifL],
-    @UUID[Compendium.motw-for-pbta.tags.Item.Ub6csRKA0PQOMj9L])</em></li>
+    <li>Base : @UUID[Compendium.motw-fr.armes.Item.LEjNNxpOjOWbkimY]{Dents}</li>
+    <li>Base : @UUID[Compendium.motw-fr.armes.Item.9YoNLftPHuY142qO]{Griffes}</li>
+    <li>Base : @UUID[Compendium.motw-fr.armes.Item.UIrpZxHyKNzCVGEb]{Force magique}</li>
+    <li>Base : @UUID[Compendium.motw-fr.armes.Item.nJXzTCt4KjSsEgrn]{Absorption d’énergie}</li>
     <li>Supplémentaire : <em>Ajoutez +1 dégât à une attaque de base</em></li>
-    <li>Supplémentaire : <em>Ajoutez @UUID[Compendium.motw-for-pbta.tags.Item.2WgpZtMmwTVjCCnA] à une attaque de
-    base</em></li>
-    <li>Supplémentaire : <em>Ajoutez une portée supplémentaire (
-    @UUID[Compendium.motw-for-pbta.tags.Item.RDfOVDy0r0C4NifL],
-    @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS],
-    ou @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP]) à une attaque de base.</em></li>
-  </ul> </td> <td style="padding: 8px;"> <h3>Manœuvres</h3>
+    <li>Supplémentaire : <em>Ajoutez ignore l’armure à une attaque de base</em></li>
+    <li>Supplémentaire : <em>Ajoutez une portée supplémentaire (allonge, personnel ou proche)
+    à une attaque de base.</em></li>
+  </ul>
+
+  </td> <td style="padding: 8px;"> <h3>Manœuvres</h3>
     <p>Vous connaissez toutes les manœuvres de base, auxquelles s’ajoutent deux manœuvres de Monstre :</p>
 
   <ul>
@@ -527,19 +520,25 @@ description: >-
     <li>@UUID[Compendium.motw-for-pbta.the-monstrous.Item.YHZiz5cZahfMbrZt]</li>
   </ul>
 
-  <h3>Équipement</h3> <p>Si vous le souhaitez, vous pouvez prendre une arme
-  :</p> <p><em>Veuillez noter que vous, ou votre gardien, devez les créer
-  manuellement.</em></p>
+  <h3>équipement</h3>
+
+  <p>Si vous le souhaitez, vous pouvez prendre une arme :</p>
 
   <ul>
-    <li>Revolver, calibre .38 (2 dégâts, proche, rechargement, bruyant)</li>
-    <li>9 mm (2 dégâts, proche, bruyant)</li>
-    <li>Magnum (3 dégâts, proche, rechargement, bruyant)</li>
-    <li>Fusil à pompe (3 dégâts, proche, sanglant, bruyant)</li>
-    <li>Couteau de chasse (1 dégât, allonge)</li>
-    <li>Coup-de-poing américain (1 dégât, allonge, silencieux, petit)</li>
-    <li>Épée (2 dégâts, allonge, sanglant)</li>
-    <li>Grande épée (3 dégâts, allonge, sanglant, lourd)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.au3Rfc5U5R2NI2ex]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.XL81ghbIiDB3OIvI]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.j5HyJYD0y6U2xfV1]{Magnum} (3 dégâts, proche, rechargement,
+    bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.WSjoRWKZlc3Vpvyy]{Fusil à pompe} (3 dégâts, proche,
+    sanglant, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.UlOw7FqQdkfxRWi5]{Couteau de chasse} (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.uakM65bnFWG59zl9]{Coup-de-poing américain} (1 dégât,
+    allonge, silencieux, petit)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.SHEylwNDtr9HP9u1]{épée} (2 dégâts, allonge,
+    sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.JO7gpr3GCLP2yRxQ]{Grande épée} (3 dégâts,
+    allonge, sanglant, lourd)</li>
   </ul>
 
   <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le

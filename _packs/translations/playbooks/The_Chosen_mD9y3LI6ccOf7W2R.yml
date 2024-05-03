@@ -534,68 +534,41 @@ description: >-
   à armure 1, si vous le souhaitez.</p> <p>Vous possédez également une arme
   spéciale qui vous est destinée.</p>
 
-  <h3>Votre arme spéciale</h3> <p>Créez votre arme en choisissant une forme et
-  trois options opérantes (ajoutées aux traits de base), ainsi qu’un matériau.
-  Par exemple, si vous voulez une épée magique, vous pourriez faire les choix
-  suivants : lame + long + magique.</p>
+  <h3>Votre arme spéciale</h3>
 
-  <p><em>Glissez-déposez
-  @UUID[Compendium.motw-for-pbta.the-chosen.Item.hMLWMPiCUeJlMdEe]{L’Élu : Arme
-  spéciale} sur votre feuille de personnage, ouvrez-la, renommez-la si vous le
-  souhaitez, puis ajoutez les traits Forme, Options et Matériau en les faisant
-  glisser sur l’arme.</em></p>
+  <p>Créez votre arme en choisissant une forme et trois options opérantes (ajoutées aux traits de
+  base), ainsi qu’un matériau. Par exemple, si vous voulez une épée magique, vous pourriez
+  faire les choix suivants : lame + long + magique.</p>
 
-  <h4>Forme <em>(choisissez-en une) :</em></h4> <ul>
-    <li>
-      Bâton
-      <em>(ajoutez @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ],
-      @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS] /
-      @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP])</em>
-    </li>
-    <li>
-      Arme d’hast
-      <em>(ajoutez @UUID[Compendium.motw-for-pbta.tags.Item.qG8S5oSRgQxXS93k],
-      @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS],
-      @UUID[Compendium.motw-for-pbta.tags.Item.MbIWZ3EHvZ9SQ5VK])</em>
-    </li>
-    <li>
-      Masse d’arme
-      <em>(ajoutez @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ],
-      @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS],
-      @UUID[Compendium.motw-for-pbta.tags.Item.5N6EgQGuCXpMpSIv])</em>
-    </li>
-    <li>
-      Chaîne
-      <em>(ajoutez @UUID[Compendium.motw-for-pbta.tags.Item.wZYNnODp72fKtZeJ],
-      @UUID[Compendium.motw-for-pbta.tags.Item.7bwjRW0tcZAd1eeS],
-      @UUID[Compendium.motw-for-pbta.tags.Item.8XhRBZRlIZOqNbxv])</em>
-    </li>
+  <p><em>Glissez-déposez la forme de votre choix sur votre feuille de personnage, ouvrez-la, puis ajoutez les
+  traits <strong>Options</strong> et <strong>Matériau</strong> en modifiant les étiquettes.</em></p>
+
+  <h4>Forme <em>(choisissez-en une) :</em></h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.M8teyjcZh7ZeNpX0]{Bâton}</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.6c7UU6FmrWh1YoTF]{Arme d’hast}</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.trJquKz2SisV8XAY]{Masse d’arme}</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.r7n9oXK0K46hfuPD]{Chaîne}</li>
   </ul>
 
   <h4>Options <em>(choisissez-en trois) :</em></h4>
 
   <ul>
-    <li>Artefact <em>(ajoutez le trait @UUID[Compendium.motw-for-pbta.tags.Item.Llh9Q5RvkYKS4Ymu])</em></li>
-    <li>Pointes <em>(+1 dégât, ajoutez le trait @UUID[Compendium.motw-for-pbta.tags.Item.S5xk0YK9ZFccI7YI])</em></li>
-    <li>Lame <em>(+1 dégât)</em></li>
-    <li>Lourd <em>(+1 dégât)</em></li>
-    <li>Long <em>(ajoutez le trait @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP])</em></li>
-    <li>Lançable <em>(ajoutez le trait @UUID[Compendium.motw-for-pbta.tags.Item.GdZB1wAlnlsUOxkP])</em></li>
-    <li>Chaîne<em> (ajoutez le trait @UUID[Compendium.motw-for-pbta.tags.Item.8XhRBZRlIZOqNbxv])</em></li>
+    <li>artefact <em>(ajoutez le trait magique)</em></li>
+    <li>pointes <em>(+1 dégât, ajoutez le trait sanglant)</em></li>
+    <li>lame <em>(+1 dégât)</em></li>
+    <li>lourd <em>(+1 dégât)</em></li>
+    <li>long <em>(ajoutez le trait proche)</em></li>
+    <li>lançable <em>(ajoutez le trait proche)</em></li>
+    <li>chaîne<em> (ajoutez le trait zone)</em></li>
   </ul>
 
-  <h4>Matériau <em>(choisissez-en un) :</em></h4> <p><em>Enfin, choisissez le
-  matériau de la partie opérante :</em></p>
-  <p><em>@UUID[Compendium.motw-for-pbta.tags.Item.nfjHO3sBIFHdE04w],
-  @UUID[Compendium.motw-for-pbta.tags.Item.xQfAJIdYCNRrExDX],
-  @UUID[Compendium.motw-for-pbta.tags.Item.fpiy6JwwrSCulcyt],
-  @UUID[Compendium.motw-for-pbta.tags.Item.E4EuySgswvIO4QmI],
-  @UUID[Compendium.motw-for-pbta.tags.Item.qSuJNr4Qs14JGgrH],
-  @UUID[Compendium.motw-for-pbta.tags.Item.triYyBBsRJ0AL7Ep],
-  @UUID[Compendium.motw-for-pbta.tags.Item.IgHpVHngwNuJMYEe],
-  @UUID[Compendium.motw-for-pbta.tags.Item.V1gkRSL1dJOpaIyL],
-  @UUID[Compendium.motw-for-pbta.tags.Item.kBfpQqcgIvZAcdBQ]{ou tout ce qui vous
-  passe par la tête}</em></p>
+  <h4>Matériau <em>(choisissez-en un) :</em></h4>
+
+  <p><em>Enfin, choisissez le matériau de la partie opérante :</em></p>
+
+  <p><em>acier, fer, froid, argent, bois, pierre, os, dents, obsidienne, ou tout ce qui vous passe par la tête</em></p>
 
   <h3>Chance spéciale</h3> <p>Chaque fois que vous dépensez un point de Chance,
   le Gardien fait intervenir votre destinée.</p>

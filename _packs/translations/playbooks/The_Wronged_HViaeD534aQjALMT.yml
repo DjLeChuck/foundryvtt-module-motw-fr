@@ -459,33 +459,51 @@ description: >-
     <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.IM6NcHRy9i9z5Vad]</li>
     <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.4UZXtzJ6y9IX3egO]</li>
     <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.UE5mqeHkx5hjOl1E]</li>
-  </ul> </td> <td style="padding: 8px;"> <h3>Équipement</h3> <p>Choisissez une
-  arme de prédilection et deux armes utiles.</p> <p>Vous possédez un équipement
-  de protection adapté à votre look, qui confère 1 armure.</p> <p>Si vous le
-  souhaitez, vous pouvez prendre une voiture ancienne, une moto ancienne, un
-  simple pick-up ou un simple van.</p> <p><em>Veuillez noter que vous, ou votre
-  gardien, devez les créer manuellement.</em></p>
+  </ul> </td>
+  <td style="padding: 8px;">
+  <h3>équipement</h3>
 
-  <h4>Armes de prédilection <em>(choisissez-en une)</em> :</h4> <ul>
-    <li>Fusil à canon scié (3 dégâts, allonge/proche, sanglant, bruyant, rechargement)</li>
-    <li>Escopette (3 dégâts, proche, bruyant)</li>
-    <li>Couteau de combat (2 dégâts, allonge, discret)</li>
-    <li>Grande épée ou grande hache (3 dégâts, allonge, sanglant, lourd)</li>
-    <li>Dague enchantée (2 dégâts, allonge, magique)</li>
-    <li>Tronçonneuse (3 dégâts, allonge, sanglant, peu fiable, bruyant, lourd)</li>
-    <li>@UUID[Compendium.motw-for-pbta.the-wronged.Item.FMPksyExLR47ly6v] pour tuer vos ennemis (maillet et pieu en
-    bois pour les vampires, dague en argent pour les loups-garous, etc.). 4 dégâts contre les créatures ciblées,
-    1 dégât autrement, et autres traits avec l’accord du Gardien.</li>
+  <p>Choisissez une arme de prédilection et deux armes utiles.</p>
+
+  <p>Vous possédez un équipement de protection adapté à votre look, qui confère 1 armure.</p>
+
+  <p>Si vous le souhaitez, vous pouvez prendre une voiture ancienne, une moto ancienne, un simple pick-up ou un simple van.</p>
+
+  <h4>Armes de prédilection <em>(choisissez-en une)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.0IQXq5fG0gc9aUod]{Fusil à canon scié} (3 dégâts,
+    allonge/proche, sanglant, bruyant, rechargement)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.hg1LA6QOdTe0NklZ]{Escopette} (3 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.gv6dc8jUntuOIOZ8]{Couteau de combat} (2 dégâts, allonge,
+    discret)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.nskEuMciM7On3vgq]{Grande épée} (3 dégâts,
+    allonge, sanglant, lourd)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.qyaWBBfHZK2lzpyb]{Grande hache} (3 dégâts, allonge, sanglant,
+    lourd)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.yAIObmYPx5lLelu7]{Dague enchantée} (2 dégâts, allonge,
+    magique)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.v8eL5gfwGU3TlW7x]{Tronçonneuse} (3 dégâts, allonge,
+    sanglant, peu fiable, bruyant, lourd)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.gq9rt1MksufqVvYt]{Armes spécialisées} pour tuer vos ennemis
+    (maillet et pieu en bois pour les vampires, dague en argent pour les loups-garous, etc.). 4 dégâts
+    contre les créatures ciblées, 1 dégât autrement, et autres traits avec l’accord du Gardien.</li>
   </ul>
 
-  <h4>Armes utiles <em>(choisissez-en une)</em> :</h4> <ul>
-    <li>Revolver, calibre .38 (2 dégâts, proche, rechargement, bruyant)</li>
-    <li>9 mm (2 dégâts, proche, bruyant)</li>
-    <li>Fusil de chasse (2 dégâts, loin, bruyant)</li>
-    <li>Fusil à pompe (3 dégâts, proche, sanglant, bruyant)</li>
-    <li>Couteau de chasse (1 dégât, allonge)</li>
-    <li>Coup-de-poing américain (1 dégât, allonge, discret)</li>
-    <li>Fusil d’assaut (3 dégâts, proche, zone, bruyant, rechargement)</li>
+  <h4>Armes utiles <em>(choisissez-en une)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.UhjKK3VYxbuB8uZV]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.VKIEIevlbNlXFOQV]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.llnkuETKx90IE1El]{Fusil de chasse} (2 dégâts, loin, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.uUF0Fz8ztqDy4y9g]{Fusil à pompe} (3 dégâts, proche,
+    sanglant, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.DbAGIjTVyQCNCrQf]{Couteau de chasse} (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.IcdpykjSqgLiCAkb]{Coup-de-poing américain} (1 dégât,
+    allonge, petit, silencieux)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.uyCb6W4Lgu8Yie72]{Fusil d’assaut} (3 dégâts, proche,
+    zone, bruyant, rechargement)</li>
   </ul>
 
   <h3>Présentations</h3>

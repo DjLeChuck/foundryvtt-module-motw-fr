@@ -10,7 +10,7 @@
     "weight": 0,
     "tags": "[{\"value\":\"3 dégâts\"},{\"value\":\"personnel\"}]",
     "itemType": "",
-    "equipmentType": "",
+    "equipmentType": "weapon",
     "actorType": ""
   },
   "effects": [],
@@ -23,7 +23,7 @@
     "systemVersion": "0.9.6",
     "coreVersion": "11.315",
     "createdTime": 1714557759383,
-    "modifiedTime": 1714631883812,
+    "modifiedTime": 1714753498075,
     "lastModifiedBy": "0dK6MKxP8fODq3fg"
   },
   "_id": "zlJBowoTSkGzvph3",

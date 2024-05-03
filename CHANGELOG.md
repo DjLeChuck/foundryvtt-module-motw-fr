@@ -5,6 +5,7 @@
 ### Ajouté
 
 - Compendium des armes par livret
+- Lien vers les armes sur tous les livrets traduits et originaux
 
 ### Corrigé
 

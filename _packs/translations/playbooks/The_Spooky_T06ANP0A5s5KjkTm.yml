@@ -397,17 +397,22 @@ description: >-
   moches.</p>
 
     </td>
-  <td style="padding: 8px;"> <h3>Équipement</h3> <p>Vous recevez deux armes
-  normales et tout objet magique ou amulette nécessaire pour évoquer vos
-  pouvoirs.</p> <p><em>Veuillez noter que vous, ou votre gardien, devez les
-  créer manuellement.</em></p>
+  <td style="padding: 8px;">
+  <h3>Équipement</h3>
 
-  <h4>Armes normales <em>(choisissez-en deux)</em> :</h4> <ul>
-    <li>Revolver, calibre .38 (2 dégâts, proche, rechargement, bruyant)</li>
-    <li>9 mm (2 dégâts, proche, bruyant)</li>
-    <li>Fusil de chasse (2 dégâts, loin, bruyant)</li>
-    <li>Fusil à pompe (3 dégâts, proche, sanglant, bruyant)</li>
-    <li>Couteau de chasse (1 dégât, allonge)</li>
+  <p>Vous recevez deux armes normales et tout objet magique ou amulette nécessaire pour évoquer vos pouvoirs.</p>
+
+  <h4>Armes normales <em>(choisissez-en deux)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.5G7tWJAz6H6bTg4Y]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.Ajt3lMBJcHTB1oIc]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.qNxH5DzvsAMAdgNt]{Fusil de chasse} (2 dégâts, loin,
+    bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.fsEiEcIdWkUrY5G8]{Fusil à pompe} (3 dégâts, proche,
+    sanglant, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.TP63EvcqnOtc7Oil]{Couteau de chasse} (1 dégât, allonge)</li>
   </ul>
 
   <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le

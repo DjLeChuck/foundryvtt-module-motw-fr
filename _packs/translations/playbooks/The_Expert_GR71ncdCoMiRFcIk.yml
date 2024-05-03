@@ -361,21 +361,32 @@ description: >-
     <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.lD5UnpoTqMhbm4EZ]</li>
     <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.AFmN5xmBwA9t18tx]</li>
     <li>@UUID[Compendium.motw-for-pbta.the-expert.Item.qeCiP0N6PTEFqa7P]</li>
-  </ul> </td> <td style="padding: 8px;"> <h3>Équipement</h3>
+  </ul> </td> <td style="padding: 8px;">
 
-  <p>Vous gagnez trois armes tueuses de monstre.</p> <p><em>Veuillez noter que
-  vous, ou votre gardien, devez les créer manuellement.</em></p>
+  <h3>Équipement</h3>
 
-  <p><em>Choisissez-en trois :</em></p> <ul>
-    <li>Pieux en bois et maillet (3 dégâts, personnel, lent, bois)</li>
-    <li>Épée en argent (2 dégâts, allonge, sanglant, argent)</li>
-    <li>Épée en fer froid (2 dégâts, allonge, sanglant, fer)</li>
-    <li>Poignard béni (2 dégâts, allonge, béni)</li>
-    <li>Dague magique (2 dégâts, allonge, magique)</li>
-    <li>Sac de grigris (1 dégât, loin, magique)</li>
-    <li>Lance-flammes (3 dégâts, proche, feu, lourd, volatil)</li>
-    <li>Magnum (3 dégâts, proche, rechargement, bruyant)</li>
-    <li>Fusil à pompe (3 dégâts, proche, sanglant, bruyant)</li>
+  <p>Vous gagnez trois armes tueuses de monstre.</p>
+
+  <p><em>Choisissez-en trois :</em></p>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.IIBU7SNWRjysWuVy]{Pieux en bois et maillet} (3 dégâts,
+    personnel, lent, bois)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.Kogt5HA8nYVkgUhx]{épée en argent} (2 dégâts,
+    allonge, sanglant, argent)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.X1M3RhELV7EsQuc5]{épée en fer froid} (2 dégâts,
+    allonge, sanglant, fer)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.Xal89HWFoPGBCWfU]{Poignard béni} (2 dégâts, allonge,
+    béni)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.zjxhjjVfNynzIYgF]{Dague magique} (2 dégâts, allonge,
+    magique)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.B5Vz9GYGnBMOu1pO]{Sac de grigris} (1 dégât, loin, magique)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.ACDZf986d3SD6U2D]{Lance-flammes} (3 dégâts, proche, feu,
+    lourd, volatil)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.wiZBsRVTTvNGCz8o]{Magnum} (3 dégâts, proche, rechargement,
+    bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.1K5l6l3nmapqhnic]{Fusil à pompe} (3 dégâts, proche,
+    sanglant, bruyant)</li>
   </ul>
 
   <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le

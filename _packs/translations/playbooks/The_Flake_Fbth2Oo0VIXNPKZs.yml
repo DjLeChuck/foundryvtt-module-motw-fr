@@ -317,27 +317,37 @@ description: >-
     <li>@UUID[Compendium.motw-for-pbta.the-flake.Item.xbOj8ON20RBB0Syu]</li>
     <li>@UUID[Compendium.motw-for-pbta.the-flake.Item.sQECgi0XL5vwFBKI]</li>
   </ul> </td> <td style="padding: 8px;"> <h3>Équipement</h3> <p>Vous gagnez une
-  arme normale et deux armes cachées.</p> <p><em>Veuillez noter que vous, ou
-  votre gardien, devez les créer manuellement.</em></p>
+  arme normale et deux armes cachées.</p>
 
   <h4>Armes normales <em>(choisissez-en une)</em> :</h4>
 
   <ul>
-    <li>Revolver, calibre .38 (2 dégâts, proche, rechargement, bruyant)</li>
-    <li>9 mm (2 dégâts, proche, bruyant)</li>
-    <li>Fusil de chasse (2 dégâts, loin, bruyant)</li>
-    <li>Magnum (3 dégâts, proche, rechargement, bruyant)</li>
-    <li>Fusil à pompe (3 dégâts, proche, sanglant, bruyant)</li>
-    <li>Poignard (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.pBgT9P46LcEsR1WL]{Revolver, calibre .38} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.5CyAQkndcCTsoUQF]{9 mm} (2 dégâts, proche, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.eMcxXAibg6atbgvQ]{Fusil de chasse} (2 dégâts, loin, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.hDZvQdaPEwM7JB1M]{Magnum} (3 dégâts, proche, rechargement,
+    bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.JckdmbfAkbaTIqIH]{Fusil à pompe} (3 dégâts, proche,
+    sanglant, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.P7YChjEfnhND49TL]{Poignard} (1 dégât, allonge)</li>
   </ul>
 
-  <h4>Armes cachées <em>(choisissez-en deux)</em> :</h4> <ul>
-    <li>Couteaux de lancer (1 dégât, proche, multiple)</li>
-    <li>Pistolet de poche (2 dégâts, proche, rechargement, bruyant)</li>
-    <li>Garrot (3 dégâts, personnel)</li>
-    <li>Lampe torche de vigile (1 dégât, allonge)</li>
-    <li>Gants de MMA/coup-de-poing américain (1 dégât, allonge)</li>
-    <li>Couteau papillon/pliable (1 dégât, allonge)</li>
+  <h4>Armes cachées <em>(choisissez-en deux)</em> :</h4>
+
+  <ul>
+    <li>@UUID[Compendium.motw-fr.armes.Item.MVwGAJ75M4ufZOcX]{Couteaux de lancer} (1 dégât, proche,
+    multiple)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.EoDetgMTWfqNduSF]{Pistolet de poche} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.zlJBowoTSkGzvph3]{Garrot} (3 dégâts, personnel)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.Uv6bauV2dvOzE2o0]{Lampe torche de vigile} (1 dégât,
+    allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.8oP6NDM3XRwjrIv2]{Gant de MMA} (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.UKgfBAGSHe0OSzMB]{Coup-de-poing américain} (1 dégât,
+    allonge, petit, silencieux)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.6TXdy1T4tyanYRRp]{Couteau papillon/pliable} (1 dégât,
+    allonge)</li>
   </ul>
 
   <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le

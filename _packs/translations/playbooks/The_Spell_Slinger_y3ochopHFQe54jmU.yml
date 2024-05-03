@@ -412,15 +412,18 @@ description: >-
     <li>@UUID[Compendium.motw-for-pbta.the-spell-slinger.Item.BmmvzZKlROzX2EGI]</li>
   </ul>
 
-  <h3>Équipement</h3> <p>Vous n’avez pas besoin de grand-chose en plus de
+  <h3>Équipement</h3>
+
+  <p>Vous n’avez pas besoin de grand-chose en plus de
   focalisateurs et de composantes pour alimenter votre magie. Cela dit, mieux
-  vaut tout prévoir. Prenez, au choix :</p> <p><em>Veuillez noter que vous, ou
-  votre gardien, devez les créer manuellement.</em></p>
+  vaut tout prévoir. Prenez, au choix :</p>
 
   <ul>
-    <li>Vieux revolver (2 dégâts, proche, rechargement, bruyant)</li>
-    <li>Dague rituelle (1 dégât, allonge)</li>
-    <li>Épée familiale (2 dégâts, allonge, sanglant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.Ztbq2pZ8CzWEjGs0]{Vieux revolver} (2 dégâts, proche,
+    rechargement, bruyant)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.kMkSof3LtJ2d9fim]{Dague rituelle} (1 dégât, allonge)</li>
+    <li>@UUID[Compendium.motw-fr.armes.Item.0MhnfKqjFpyWktPL]{épée familiale} (2 dégâts,
+    allonge, sanglant)</li>
   </ul>
 
   <h3>Présentations</h3> <p>Lorsque vous en arrivez là, attendez que tout le
