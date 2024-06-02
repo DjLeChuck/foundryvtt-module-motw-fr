@@ -25,7 +25,9 @@
 
 - Version initiale du module ! 🚀
 
-[Unreleased]: https://github.com/DjLeChuck/foundryvtt-module-motw-fr/compare/11.0.1...main
+[Unreleased]: https://github.com/DjLeChuck/foundryvtt-module-motw-fr/compare/12.0.0...main
+
+[12.0.0]: https://github.com/DjLeChuck/foundryvtt-module-motw-fr/compare/11.1.0...12.0.0
 
 [11.1.0]: https://github.com/DjLeChuck/foundryvtt-module-motw-fr/compare/11.0.0...11.1.0
 
