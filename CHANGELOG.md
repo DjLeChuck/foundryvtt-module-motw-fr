@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [12.0.0] - 2024-06-02
+
+### Ajouté
+
+- Support pour FoundryVTT v12
+
 ## [11.1.0] - 2024-05-03
 
 ### Ajouté
