@@ -16,26 +16,6 @@ function generateJson(inputDir, outputDir, compendiumLabels) {
 
     const jsonData = {
       'label': compendiumLabels[rootDir.name] || rootDir.name,
-      'mapping': {
-        'description': 'system.description',
-        'success': 'system.moveResults.success.value',
-        'partial': 'system.moveResults.partial.value',
-        'failure': 'system.moveResults.failure.value',
-        'choices': 'system.choices',
-        'tags': 'system.tags',
-        'successLabel': {
-          'path': 'system.moveResults.success.label',
-          'converter': 'resultLabel',
-        },
-        'partialLabel': {
-          'path': 'system.moveResults.partial.label',
-          'converter': 'resultLabel',
-        },
-        'failureLabel': {
-          'path': 'system.moveResults.failure.label',
-          'converter': 'resultLabel',
-        },
-      },
       'entries': {},
     };
 
