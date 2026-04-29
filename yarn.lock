@@ -5,20 +5,20 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"@foundryvtt/foundryvtt-cli@npm:^1.0.0-rc.4":
-  version: 1.0.2
-  resolution: "@foundryvtt/foundryvtt-cli@npm:1.0.2"
+"@foundryvtt/foundryvtt-cli@npm:^3.0.3":
+  version: 3.0.3
+  resolution: "@foundryvtt/foundryvtt-cli@npm:3.0.3"
   dependencies:
-    chalk: ^5.2.0
-    classic-level: ^1.2.0
+    chalk: ^5.4.1
+    classic-level: ^1.4.1
     esm: ^3.2.25
     js-yaml: ^4.1.0
-    mkdirp: ^3.0.0
-    nedb-promises: ^6.2.1
-    yargs: ^17.7.1
+    mkdirp: ^3.0.1
+    nedb-promises: ^6.2.3
+    yargs: ^17.7.2
   bin:
     fvtt: fvtt.mjs
-  checksum: cfb77ab7a35e5ca03b47ecceacdf9422a4f92e3a65007d1763ddcc7710fdd53e243b9c4af18e8faebd4044da72e0d1e143c9a6d681fae42f3c07379fdd8018b1
+  checksum: 62e65d529ba34244f7ab9c5edd09f6c8adbe920c255afbefa5fa764e3ea11a7b2822afc0b75e8890aca3a270a20f0b32652132fe678609be9eeda53b61672f7d
   languageName: node
   linkType: hard
 
@@ -243,10 +243,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chalk@npm:^5.2.0":
-  version: 5.3.0
-  resolution: "chalk@npm:5.3.0"
-  checksum: 623922e077b7d1e9dedaea6f8b9e9352921f8ae3afe739132e0e00c275971bdd331268183b2628cf4ab1727c45ea1f28d7e24ac23ce1db1eb653c414ca8a5a80
+"chalk@npm:^5.4.1":
+  version: 5.6.2
+  resolution: "chalk@npm:5.6.2"
+  checksum: 4ee2d47a626d79ca27cb5299ecdcce840ef5755e287412536522344db0fc51ca0f6d6433202332c29e2288c6a90a2b31f3bd626bc8c14743b6b6ee28abd3b796
   languageName: node
   linkType: hard
 
@@ -257,7 +257,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"classic-level@npm:^1.2.0":
+"classic-level@npm:^1.4.1":
   version: 1.4.1
   resolution: "classic-level@npm:1.4.1"
   dependencies:
@@ -910,7 +910,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mkdirp@npm:^3.0.0":
+"mkdirp@npm:^3.0.1":
   version: 3.0.1
   resolution: "mkdirp@npm:3.0.1"
   bin:
@@ -930,7 +930,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "motw-fr@workspace:."
   dependencies:
-    "@foundryvtt/foundryvtt-cli": ^1.0.0-rc.4
+    "@foundryvtt/foundryvtt-cli": ^3.0.3
     yaml: ^2.4.1
   languageName: unknown
   linkType: soft
@@ -949,7 +949,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nedb-promises@npm:^6.2.1":
+"nedb-promises@npm:^6.2.3":
   version: 6.2.3
   resolution: "nedb-promises@npm:6.2.3"
   dependencies:
@@ -1349,7 +1349,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yargs@npm:^17.7.1":
+"yargs@npm:^17.7.2":
   version: 17.7.2
   resolution: "yargs@npm:17.7.2"
   dependencies:
