@@ -36,10 +36,13 @@ flags:
 _stats:
   systemId: pbta
   systemVersion: 0.7.1
-  coreVersion: '11.301'
+  coreVersion: '14.360'
   createdTime: 1667515188608
   modifiedTime: 1686860927565
   lastModifiedBy: 8ABnOyDQ6EO9otzq
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
 folder: rGrCxRHPGyRaSaGw
 _id: s2ZE6NlMdbpXdUQv
 sort: 0
@@ -47,4 +50,3 @@ ownership:
   default: 0
   8ABnOyDQ6EO9otzq: 3
 _key: '!items!s2ZE6NlMdbpXdUQv'
-
