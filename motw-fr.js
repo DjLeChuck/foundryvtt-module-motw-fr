@@ -1,19 +1,4 @@
 Hooks.on('init', async () => {
-  game.settings.register('motw-fr', 'autoRegisterBabel', {
-    name: 'Activer automatiquement la traduction via Babele',
-    hint: 'Met automatiquement en place les traductions au sein de Babele sans avoir besoin de pointer vers le répertoire contenant les traductions.',
-    scope: 'world',
-    config: true,
-    default: true,
-    type: Boolean,
-    requiresReload: true,
-    onChange: value => {
-      if (value) {
-        autoRegisterBabel();
-      }
-    },
-  });
-
   game.settings.register('motw-fr', 'setBaseCompendiumsFolders', {
     name: 'Ranger les compendiums de base dans des dossiers',
     hint: 'Fais en sorte de mettre les compendiums propulsés par le module de base dans des dossiers afin de faciliter la lecture.',
@@ -35,40 +20,32 @@ Hooks.on('init', async () => {
     config: false,
     type: String,
   });
-
-  if (game.settings.get('motw-fr', 'autoRegisterBabel')) {
-    autoRegisterBabel();
-  }
-
-  Babele.get().registerConverters({
-    resultLabel: (value) => {
-      switch (value) {
-        case 'Success!':
-          return 'Succès !';
-        case 'Partial success':
-          return 'Succès partiel';
-        case 'Miss...':
-          return 'Échec...';
-        default:
-          return value;
-      }
-    },
-  });
 });
 
 Hooks.on('ready', async () => {
   await setCompendiumsFolders();
 });
 
-function autoRegisterBabel() {
-  if (typeof Babele !== 'undefined') {
-    Babele.get().register({
-      module: 'motw-fr',
-      lang: 'fr',
-      dir: 'compendium/fr',
-    });
-  }
-}
+Hooks.once('babele.init', (babele) => {
+  babele.register({
+    module: 'motw-fr',
+    lang: 'fr',
+    dir: 'compendium/fr',
+  });
+
+  babele.registerConverter('resultLabel', (value) => {
+    switch (value) {
+      case 'Success!':
+        return 'Succès !';
+      case 'Partial success':
+        return 'Succès partiel';
+      case 'Miss...':
+        return 'Échec...';
+      default:
+        return value;
+    }
+  });
+});
 
 async function setCompendiumsFolders() {
   if (game.settings.get('motw-fr', 'setBaseCompendiumsFolders')) {

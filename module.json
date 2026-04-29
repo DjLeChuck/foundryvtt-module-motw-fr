@@ -115,7 +115,9 @@
       {
         "id": "babele",
         "type": "module",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "2.8.0"
+        }
       },
       {
         "id": "motw-for-pbta",
